@@ -1,0 +1,7 @@
+C:\Users\mm1-ignis\Desktop\c# programs\11.03\uprajnenie\bin\Debug\uprajnenie.exe.config
+C:\Users\mm1-ignis\Desktop\c# programs\11.03\uprajnenie\bin\Debug\uprajnenie.exe
+C:\Users\mm1-ignis\Desktop\c# programs\11.03\uprajnenie\bin\Debug\uprajnenie.pdb
+C:\Users\mm1-ignis\Desktop\c# programs\11.03\uprajnenie\obj\Debug\uprajnenie.csprojAssemblyReference.cache
+C:\Users\mm1-ignis\Desktop\c# programs\11.03\uprajnenie\obj\Debug\uprajnenie.csproj.CoreCompileInputs.cache
+C:\Users\mm1-ignis\Desktop\c# programs\11.03\uprajnenie\obj\Debug\uprajnenie.exe
+C:\Users\mm1-ignis\Desktop\c# programs\11.03\uprajnenie\obj\Debug\uprajnenie.pdb

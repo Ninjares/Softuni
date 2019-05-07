@@ -1,0 +1,7 @@
+C:\Users\mm1-ignis\Desktop\c# programs\arrayexcercises\arrayrotation\arrayrotation\bin\Debug\arrayrotation.exe.config
+C:\Users\mm1-ignis\Desktop\c# programs\arrayexcercises\arrayrotation\arrayrotation\bin\Debug\arrayrotation.exe
+C:\Users\mm1-ignis\Desktop\c# programs\arrayexcercises\arrayrotation\arrayrotation\bin\Debug\arrayrotation.pdb
+C:\Users\mm1-ignis\Desktop\c# programs\arrayexcercises\arrayrotation\arrayrotation\obj\Debug\arrayrotation.csprojAssemblyReference.cache
+C:\Users\mm1-ignis\Desktop\c# programs\arrayexcercises\arrayrotation\arrayrotation\obj\Debug\arrayrotation.csproj.CoreCompileInputs.cache
+C:\Users\mm1-ignis\Desktop\c# programs\arrayexcercises\arrayrotation\arrayrotation\obj\Debug\arrayrotation.exe
+C:\Users\mm1-ignis\Desktop\c# programs\arrayexcercises\arrayrotation\arrayrotation\obj\Debug\arrayrotation.pdb

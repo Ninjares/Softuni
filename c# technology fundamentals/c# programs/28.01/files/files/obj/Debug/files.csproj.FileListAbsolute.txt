@@ -1,0 +1,7 @@
+C:\Users\mm1-ignis\Desktop\c# programs\28.01\files\files\bin\Debug\files.exe.config
+C:\Users\mm1-ignis\Desktop\c# programs\28.01\files\files\bin\Debug\files.exe
+C:\Users\mm1-ignis\Desktop\c# programs\28.01\files\files\bin\Debug\files.pdb
+C:\Users\mm1-ignis\Desktop\c# programs\28.01\files\files\obj\Debug\files.csprojAssemblyReference.cache
+C:\Users\mm1-ignis\Desktop\c# programs\28.01\files\files\obj\Debug\files.csproj.CoreCompileInputs.cache
+C:\Users\mm1-ignis\Desktop\c# programs\28.01\files\files\obj\Debug\files.exe
+C:\Users\mm1-ignis\Desktop\c# programs\28.01\files\files\obj\Debug\files.pdb

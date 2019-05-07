@@ -1,0 +1,7 @@
+C:\Users\mm1-ignis\Desktop\c# programs\textprocessing\hw4\bin\Debug\hw4.exe.config
+C:\Users\mm1-ignis\Desktop\c# programs\textprocessing\hw4\bin\Debug\hw4.exe
+C:\Users\mm1-ignis\Desktop\c# programs\textprocessing\hw4\bin\Debug\hw4.pdb
+C:\Users\mm1-ignis\Desktop\c# programs\textprocessing\hw4\obj\Debug\hw4.csprojAssemblyReference.cache
+C:\Users\mm1-ignis\Desktop\c# programs\textprocessing\hw4\obj\Debug\hw4.csproj.CoreCompileInputs.cache
+C:\Users\mm1-ignis\Desktop\c# programs\textprocessing\hw4\obj\Debug\hw4.exe
+C:\Users\mm1-ignis\Desktop\c# programs\textprocessing\hw4\obj\Debug\hw4.pdb

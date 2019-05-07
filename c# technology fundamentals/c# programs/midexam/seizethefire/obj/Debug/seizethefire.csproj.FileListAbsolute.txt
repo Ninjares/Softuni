@@ -1,0 +1,7 @@
+C:\Users\mm1-ignis\Desktop\midexam\seizethefire\bin\Debug\seizethefire.exe.config
+C:\Users\mm1-ignis\Desktop\midexam\seizethefire\bin\Debug\seizethefire.exe
+C:\Users\mm1-ignis\Desktop\midexam\seizethefire\bin\Debug\seizethefire.pdb
+C:\Users\mm1-ignis\Desktop\midexam\seizethefire\obj\Debug\seizethefire.csprojAssemblyReference.cache
+C:\Users\mm1-ignis\Desktop\midexam\seizethefire\obj\Debug\seizethefire.csproj.CoreCompileInputs.cache
+C:\Users\mm1-ignis\Desktop\midexam\seizethefire\obj\Debug\seizethefire.exe
+C:\Users\mm1-ignis\Desktop\midexam\seizethefire\obj\Debug\seizethefire.pdb

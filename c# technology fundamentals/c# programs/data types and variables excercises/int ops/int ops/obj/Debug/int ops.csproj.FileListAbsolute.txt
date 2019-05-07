@@ -1,0 +1,7 @@
+C:\Users\mm1-ignis\Desktop\c# programs\data types and variables excercises\int ops\int ops\bin\Debug\int ops.exe.config
+C:\Users\mm1-ignis\Desktop\c# programs\data types and variables excercises\int ops\int ops\bin\Debug\int ops.exe
+C:\Users\mm1-ignis\Desktop\c# programs\data types and variables excercises\int ops\int ops\bin\Debug\int ops.pdb
+C:\Users\mm1-ignis\Desktop\c# programs\data types and variables excercises\int ops\int ops\obj\Debug\int ops.csprojAssemblyReference.cache
+C:\Users\mm1-ignis\Desktop\c# programs\data types and variables excercises\int ops\int ops\obj\Debug\int ops.csproj.CoreCompileInputs.cache
+C:\Users\mm1-ignis\Desktop\c# programs\data types and variables excercises\int ops\int ops\obj\Debug\int ops.exe
+C:\Users\mm1-ignis\Desktop\c# programs\data types and variables excercises\int ops\int ops\obj\Debug\int ops.pdb

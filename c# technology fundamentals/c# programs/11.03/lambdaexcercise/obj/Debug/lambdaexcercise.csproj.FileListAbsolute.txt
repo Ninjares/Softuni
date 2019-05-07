@@ -1,0 +1,7 @@
+C:\Users\mm1-ignis\Desktop\c# programs\11.03\lambdaexcercise\bin\Debug\lambdaexcercise.exe.config
+C:\Users\mm1-ignis\Desktop\c# programs\11.03\lambdaexcercise\bin\Debug\lambdaexcercise.exe
+C:\Users\mm1-ignis\Desktop\c# programs\11.03\lambdaexcercise\bin\Debug\lambdaexcercise.pdb
+C:\Users\mm1-ignis\Desktop\c# programs\11.03\lambdaexcercise\obj\Debug\lambdaexcercise.csprojAssemblyReference.cache
+C:\Users\mm1-ignis\Desktop\c# programs\11.03\lambdaexcercise\obj\Debug\lambdaexcercise.csproj.CoreCompileInputs.cache
+C:\Users\mm1-ignis\Desktop\c# programs\11.03\lambdaexcercise\obj\Debug\lambdaexcercise.exe
+C:\Users\mm1-ignis\Desktop\c# programs\11.03\lambdaexcercise\obj\Debug\lambdaexcercise.pdb

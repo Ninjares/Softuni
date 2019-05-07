@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arraymanipulator", "arraymanipulator.csproj", "{3889158D-1F53-48A6-9895-6BDCF0D44617}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3889158D-1F53-48A6-9895-6BDCF0D44617}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3889158D-1F53-48A6-9895-6BDCF0D44617}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3889158D-1F53-48A6-9895-6BDCF0D44617}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3889158D-1F53-48A6-9895-6BDCF0D44617}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6C2E4A3-F239-47AC-AA85-8191385A188B}
+	EndGlobalSection
+EndGlobal

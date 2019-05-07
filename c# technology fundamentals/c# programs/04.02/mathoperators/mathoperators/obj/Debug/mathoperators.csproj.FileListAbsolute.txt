@@ -1,0 +1,6 @@
+C:\Users\mm1-ignis\Desktop\c# programs\04.02\mathoperators\mathoperators\bin\Debug\mathoperators.exe.config
+C:\Users\mm1-ignis\Desktop\c# programs\04.02\mathoperators\mathoperators\bin\Debug\mathoperators.exe
+C:\Users\mm1-ignis\Desktop\c# programs\04.02\mathoperators\mathoperators\bin\Debug\mathoperators.pdb
+C:\Users\mm1-ignis\Desktop\c# programs\04.02\mathoperators\mathoperators\obj\Debug\mathoperators.csproj.CoreCompileInputs.cache
+C:\Users\mm1-ignis\Desktop\c# programs\04.02\mathoperators\mathoperators\obj\Debug\mathoperators.exe
+C:\Users\mm1-ignis\Desktop\c# programs\04.02\mathoperators\mathoperators\obj\Debug\mathoperators.pdb

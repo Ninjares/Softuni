@@ -1,0 +1,7 @@
+C:\Users\mm1-ignis\Desktop\c# programs\data types and variables excercises\snowballs\snowballs\bin\Debug\snowballs.exe.config
+C:\Users\mm1-ignis\Desktop\c# programs\data types and variables excercises\snowballs\snowballs\bin\Debug\snowballs.exe
+C:\Users\mm1-ignis\Desktop\c# programs\data types and variables excercises\snowballs\snowballs\bin\Debug\snowballs.pdb
+C:\Users\mm1-ignis\Desktop\c# programs\data types and variables excercises\snowballs\snowballs\obj\Debug\snowballs.csprojAssemblyReference.cache
+C:\Users\mm1-ignis\Desktop\c# programs\data types and variables excercises\snowballs\snowballs\obj\Debug\snowballs.csproj.CoreCompileInputs.cache
+C:\Users\mm1-ignis\Desktop\c# programs\data types and variables excercises\snowballs\snowballs\obj\Debug\snowballs.exe
+C:\Users\mm1-ignis\Desktop\c# programs\data types and variables excercises\snowballs\snowballs\obj\Debug\snowballs.pdb

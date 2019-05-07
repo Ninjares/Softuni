@@ -1,0 +1,7 @@
+C:\Users\mm1-ignis\Desktop\c# programs\18.02\lists\bin\Debug\lists.exe.config
+C:\Users\mm1-ignis\Desktop\c# programs\18.02\lists\bin\Debug\lists.exe
+C:\Users\mm1-ignis\Desktop\c# programs\18.02\lists\bin\Debug\lists.pdb
+C:\Users\mm1-ignis\Desktop\c# programs\18.02\lists\obj\Debug\lists.csprojAssemblyReference.cache
+C:\Users\mm1-ignis\Desktop\c# programs\18.02\lists\obj\Debug\lists.csproj.CoreCompileInputs.cache
+C:\Users\mm1-ignis\Desktop\c# programs\18.02\lists\obj\Debug\lists.exe
+C:\Users\mm1-ignis\Desktop\c# programs\18.02\lists\obj\Debug\lists.pdb

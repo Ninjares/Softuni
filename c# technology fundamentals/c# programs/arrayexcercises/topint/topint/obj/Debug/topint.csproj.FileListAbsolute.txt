@@ -1,0 +1,7 @@
+C:\Users\mm1-ignis\Desktop\c# programs\arrayexcercises\topint\topint\bin\Debug\topint.exe.config
+C:\Users\mm1-ignis\Desktop\c# programs\arrayexcercises\topint\topint\bin\Debug\topint.exe
+C:\Users\mm1-ignis\Desktop\c# programs\arrayexcercises\topint\topint\bin\Debug\topint.pdb
+C:\Users\mm1-ignis\Desktop\c# programs\arrayexcercises\topint\topint\obj\Debug\topint.csproj.CoreCompileInputs.cache
+C:\Users\mm1-ignis\Desktop\c# programs\arrayexcercises\topint\topint\obj\Debug\topint.exe
+C:\Users\mm1-ignis\Desktop\c# programs\arrayexcercises\topint\topint\obj\Debug\topint.pdb
+C:\Users\mm1-ignis\Desktop\c# programs\arrayexcercises\topint\topint\obj\Debug\topint.csprojAssemblyReference.cache

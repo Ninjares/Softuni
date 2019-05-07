@@ -1,0 +1,7 @@
+C:\Users\mm1-ignis\Desktop\c# programs\28.01\datatypes\datatypes\bin\Debug\datatypes.exe.config
+C:\Users\mm1-ignis\Desktop\c# programs\28.01\datatypes\datatypes\bin\Debug\datatypes.exe
+C:\Users\mm1-ignis\Desktop\c# programs\28.01\datatypes\datatypes\bin\Debug\datatypes.pdb
+C:\Users\mm1-ignis\Desktop\c# programs\28.01\datatypes\datatypes\obj\Debug\datatypes.csprojAssemblyReference.cache
+C:\Users\mm1-ignis\Desktop\c# programs\28.01\datatypes\datatypes\obj\Debug\datatypes.csproj.CoreCompileInputs.cache
+C:\Users\mm1-ignis\Desktop\c# programs\28.01\datatypes\datatypes\obj\Debug\datatypes.exe
+C:\Users\mm1-ignis\Desktop\c# programs\28.01\datatypes\datatypes\obj\Debug\datatypes.pdb

@@ -1,0 +1,7 @@
+C:\Users\mm1-ignis\Desktop\c# programs\listsexcercises\train\bin\Debug\train.exe.config
+C:\Users\mm1-ignis\Desktop\c# programs\listsexcercises\train\bin\Debug\train.exe
+C:\Users\mm1-ignis\Desktop\c# programs\listsexcercises\train\bin\Debug\train.pdb
+C:\Users\mm1-ignis\Desktop\c# programs\listsexcercises\train\obj\Debug\train.csprojAssemblyReference.cache
+C:\Users\mm1-ignis\Desktop\c# programs\listsexcercises\train\obj\Debug\train.csproj.CoreCompileInputs.cache
+C:\Users\mm1-ignis\Desktop\c# programs\listsexcercises\train\obj\Debug\train.exe
+C:\Users\mm1-ignis\Desktop\c# programs\listsexcercises\train\obj\Debug\train.pdb

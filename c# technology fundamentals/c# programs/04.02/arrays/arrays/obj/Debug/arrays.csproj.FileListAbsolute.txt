@@ -1,0 +1,7 @@
+C:\Users\mm1-ignis\Desktop\c# programs\04.02\arrays\arrays\bin\Debug\arrays.exe.config
+C:\Users\mm1-ignis\Desktop\c# programs\04.02\arrays\arrays\bin\Debug\arrays.exe
+C:\Users\mm1-ignis\Desktop\c# programs\04.02\arrays\arrays\bin\Debug\arrays.pdb
+C:\Users\mm1-ignis\Desktop\c# programs\04.02\arrays\arrays\obj\Debug\arrays.csprojAssemblyReference.cache
+C:\Users\mm1-ignis\Desktop\c# programs\04.02\arrays\arrays\obj\Debug\arrays.csproj.CoreCompileInputs.cache
+C:\Users\mm1-ignis\Desktop\c# programs\04.02\arrays\arrays\obj\Debug\arrays.exe
+C:\Users\mm1-ignis\Desktop\c# programs\04.02\arrays\arrays\obj\Debug\arrays.pdb

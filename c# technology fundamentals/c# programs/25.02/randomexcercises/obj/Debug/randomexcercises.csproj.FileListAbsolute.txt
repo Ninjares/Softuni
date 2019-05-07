@@ -1,0 +1,7 @@
+C:\Users\mm1-ignis\Desktop\c# programs\25.02\randomexcercises\obj\Debug\randomexcercises.csprojAssemblyReference.cache
+C:\Users\mm1-ignis\Desktop\c# programs\25.02\randomexcercises\obj\Debug\randomexcercises.csproj.CoreCompileInputs.cache
+C:\Users\mm1-ignis\Desktop\c# programs\25.02\randomexcercises\bin\Debug\randomexcercises.exe.config
+C:\Users\mm1-ignis\Desktop\c# programs\25.02\randomexcercises\bin\Debug\randomexcercises.exe
+C:\Users\mm1-ignis\Desktop\c# programs\25.02\randomexcercises\bin\Debug\randomexcercises.pdb
+C:\Users\mm1-ignis\Desktop\c# programs\25.02\randomexcercises\obj\Debug\randomexcercises.exe
+C:\Users\mm1-ignis\Desktop\c# programs\25.02\randomexcercises\obj\Debug\randomexcercises.pdb

@@ -1,0 +1,7 @@
+C:\Users\mm1-ignis\Desktop\c# programs\listsexcercises\anonymoose\bin\Debug\anonymoose.exe.config
+C:\Users\mm1-ignis\Desktop\c# programs\listsexcercises\anonymoose\bin\Debug\anonymoose.exe
+C:\Users\mm1-ignis\Desktop\c# programs\listsexcercises\anonymoose\bin\Debug\anonymoose.pdb
+C:\Users\mm1-ignis\Desktop\c# programs\listsexcercises\anonymoose\obj\Debug\anonymoose.csprojAssemblyReference.cache
+C:\Users\mm1-ignis\Desktop\c# programs\listsexcercises\anonymoose\obj\Debug\anonymoose.csproj.CoreCompileInputs.cache
+C:\Users\mm1-ignis\Desktop\c# programs\listsexcercises\anonymoose\obj\Debug\anonymoose.exe
+C:\Users\mm1-ignis\Desktop\c# programs\listsexcercises\anonymoose\obj\Debug\anonymoose.pdb

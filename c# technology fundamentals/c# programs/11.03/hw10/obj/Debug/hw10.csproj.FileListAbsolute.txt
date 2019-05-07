@@ -1,0 +1,7 @@
+C:\Users\mm1-ignis\Desktop\c# programs\11.03\hw10\bin\Debug\hw10.exe.config
+C:\Users\mm1-ignis\Desktop\c# programs\11.03\hw10\bin\Debug\hw10.exe
+C:\Users\mm1-ignis\Desktop\c# programs\11.03\hw10\bin\Debug\hw10.pdb
+C:\Users\mm1-ignis\Desktop\c# programs\11.03\hw10\obj\Debug\hw10.csprojAssemblyReference.cache
+C:\Users\mm1-ignis\Desktop\c# programs\11.03\hw10\obj\Debug\hw10.csproj.CoreCompileInputs.cache
+C:\Users\mm1-ignis\Desktop\c# programs\11.03\hw10\obj\Debug\hw10.exe
+C:\Users\mm1-ignis\Desktop\c# programs\11.03\hw10\obj\Debug\hw10.pdb

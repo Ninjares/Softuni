@@ -1,0 +1,7 @@
+C:\Users\mm1-ignis\Desktop\c# programs\arrayexcercises\dna n shit\bin\Debug\dna n shit.exe.config
+C:\Users\mm1-ignis\Desktop\c# programs\arrayexcercises\dna n shit\bin\Debug\dna n shit.exe
+C:\Users\mm1-ignis\Desktop\c# programs\arrayexcercises\dna n shit\bin\Debug\dna n shit.pdb
+C:\Users\mm1-ignis\Desktop\c# programs\arrayexcercises\dna n shit\obj\Debug\dna n shit.csprojAssemblyReference.cache
+C:\Users\mm1-ignis\Desktop\c# programs\arrayexcercises\dna n shit\obj\Debug\dna n shit.csproj.CoreCompileInputs.cache
+C:\Users\mm1-ignis\Desktop\c# programs\arrayexcercises\dna n shit\obj\Debug\dna n shit.exe
+C:\Users\mm1-ignis\Desktop\c# programs\arrayexcercises\dna n shit\obj\Debug\dna n shit.pdb

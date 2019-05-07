@@ -1,0 +1,7 @@
+C:\Users\mm1-ignis\Desktop\c# programs\listsexcercises\listoperations\bin\Debug\listoperations.exe.config
+C:\Users\mm1-ignis\Desktop\c# programs\listsexcercises\listoperations\bin\Debug\listoperations.exe
+C:\Users\mm1-ignis\Desktop\c# programs\listsexcercises\listoperations\bin\Debug\listoperations.pdb
+C:\Users\mm1-ignis\Desktop\c# programs\listsexcercises\listoperations\obj\Debug\listoperations.csprojAssemblyReference.cache
+C:\Users\mm1-ignis\Desktop\c# programs\listsexcercises\listoperations\obj\Debug\listoperations.csproj.CoreCompileInputs.cache
+C:\Users\mm1-ignis\Desktop\c# programs\listsexcercises\listoperations\obj\Debug\listoperations.exe
+C:\Users\mm1-ignis\Desktop\c# programs\listsexcercises\listoperations\obj\Debug\listoperations.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "magicc som", "magicc som\magicc som.csproj", "{BEFF269D-C97A-4BCE-BF88-DC8C38F93B4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEFF269D-C97A-4BCE-BF88-DC8C38F93B4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEFF269D-C97A-4BCE-BF88-DC8C38F93B4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEFF269D-C97A-4BCE-BF88-DC8C38F93B4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEFF269D-C97A-4BCE-BF88-DC8C38F93B4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD6409E3-8125-4A80-A243-D47C1AD85F50}
+	EndGlobalSection
+EndGlobal

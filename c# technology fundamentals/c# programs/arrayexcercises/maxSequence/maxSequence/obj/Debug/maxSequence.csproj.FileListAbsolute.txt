@@ -1,0 +1,7 @@
+C:\Users\mm1-ignis\Desktop\c# programs\arrayexcercises\maxSequence\maxSequence\obj\Debug\maxSequence.csprojAssemblyReference.cache
+C:\Users\mm1-ignis\Desktop\c# programs\arrayexcercises\maxSequence\maxSequence\obj\Debug\maxSequence.csproj.CoreCompileInputs.cache
+C:\Users\mm1-ignis\Desktop\c# programs\arrayexcercises\maxSequence\maxSequence\bin\Debug\maxSequence.exe.config
+C:\Users\mm1-ignis\Desktop\c# programs\arrayexcercises\maxSequence\maxSequence\bin\Debug\maxSequence.exe
+C:\Users\mm1-ignis\Desktop\c# programs\arrayexcercises\maxSequence\maxSequence\bin\Debug\maxSequence.pdb
+C:\Users\mm1-ignis\Desktop\c# programs\arrayexcercises\maxSequence\maxSequence\obj\Debug\maxSequence.exe
+C:\Users\mm1-ignis\Desktop\c# programs\arrayexcercises\maxSequence\maxSequence\obj\Debug\maxSequence.pdb

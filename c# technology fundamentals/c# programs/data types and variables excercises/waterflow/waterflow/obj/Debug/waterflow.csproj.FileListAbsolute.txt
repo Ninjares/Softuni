@@ -1,0 +1,7 @@
+C:\Users\mm1-ignis\Desktop\c# programs\data types and variables excercises\waterflow\waterflow\bin\Debug\waterflow.exe.config
+C:\Users\mm1-ignis\Desktop\c# programs\data types and variables excercises\waterflow\waterflow\bin\Debug\waterflow.exe
+C:\Users\mm1-ignis\Desktop\c# programs\data types and variables excercises\waterflow\waterflow\bin\Debug\waterflow.pdb
+C:\Users\mm1-ignis\Desktop\c# programs\data types and variables excercises\waterflow\waterflow\obj\Debug\waterflow.csprojAssemblyReference.cache
+C:\Users\mm1-ignis\Desktop\c# programs\data types and variables excercises\waterflow\waterflow\obj\Debug\waterflow.csproj.CoreCompileInputs.cache
+C:\Users\mm1-ignis\Desktop\c# programs\data types and variables excercises\waterflow\waterflow\obj\Debug\waterflow.exe
+C:\Users\mm1-ignis\Desktop\c# programs\data types and variables excercises\waterflow\waterflow\obj\Debug\waterflow.pdb

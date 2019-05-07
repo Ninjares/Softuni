@@ -1,0 +1,2 @@
+C:\Users\mm1-ignis\Desktop\c# programs\textprocessing\randomexc\obj\Debug\randomexc.csprojAssemblyReference.cache
+C:\Users\mm1-ignis\Desktop\c# programs\textprocessing\randomexc\obj\Debug\randomexc.csproj.CoreCompileInputs.cache

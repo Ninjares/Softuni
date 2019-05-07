@@ -1,0 +1,7 @@
+C:\Users\mm1-ignis\Desktop\c# programs\arrayexcercises\ladybugs\ladybugs\bin\Debug\ladybugs.exe.config
+C:\Users\mm1-ignis\Desktop\c# programs\arrayexcercises\ladybugs\ladybugs\bin\Debug\ladybugs.exe
+C:\Users\mm1-ignis\Desktop\c# programs\arrayexcercises\ladybugs\ladybugs\bin\Debug\ladybugs.pdb
+C:\Users\mm1-ignis\Desktop\c# programs\arrayexcercises\ladybugs\ladybugs\obj\Debug\ladybugs.csproj.CoreCompileInputs.cache
+C:\Users\mm1-ignis\Desktop\c# programs\arrayexcercises\ladybugs\ladybugs\obj\Debug\ladybugs.exe
+C:\Users\mm1-ignis\Desktop\c# programs\arrayexcercises\ladybugs\ladybugs\obj\Debug\ladybugs.pdb
+C:\Users\mm1-ignis\Desktop\c# programs\arrayexcercises\ladybugs\ladybugs\obj\Debug\ladybugs.csprojAssemblyReference.cache

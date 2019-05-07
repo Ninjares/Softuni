@@ -1,0 +1,7 @@
+C:\Users\mm1-ignis\Desktop\c# programs\tetris\tetris\bin\Debug\tetris.exe.config
+C:\Users\mm1-ignis\Desktop\c# programs\tetris\tetris\bin\Debug\tetris.exe
+C:\Users\mm1-ignis\Desktop\c# programs\tetris\tetris\bin\Debug\tetris.pdb
+C:\Users\mm1-ignis\Desktop\c# programs\tetris\tetris\obj\Debug\tetris.csprojAssemblyReference.cache
+C:\Users\mm1-ignis\Desktop\c# programs\tetris\tetris\obj\Debug\tetris.csproj.CoreCompileInputs.cache
+C:\Users\mm1-ignis\Desktop\c# programs\tetris\tetris\obj\Debug\tetris.exe
+C:\Users\mm1-ignis\Desktop\c# programs\tetris\tetris\obj\Debug\tetris.pdb

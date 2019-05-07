@@ -1,0 +1,6 @@
+C:\Users\mm1-ignis\Desktop\c# programs\data types and variables excercises\POKE mon\POKE mon\bin\Debug\POKE mon.exe.config
+C:\Users\mm1-ignis\Desktop\c# programs\data types and variables excercises\POKE mon\POKE mon\bin\Debug\POKE mon.exe
+C:\Users\mm1-ignis\Desktop\c# programs\data types and variables excercises\POKE mon\POKE mon\bin\Debug\POKE mon.pdb
+C:\Users\mm1-ignis\Desktop\c# programs\data types and variables excercises\POKE mon\POKE mon\obj\Debug\POKE mon.csproj.CoreCompileInputs.cache
+C:\Users\mm1-ignis\Desktop\c# programs\data types and variables excercises\POKE mon\POKE mon\obj\Debug\POKE mon.exe
+C:\Users\mm1-ignis\Desktop\c# programs\data types and variables excercises\POKE mon\POKE mon\obj\Debug\POKE mon.pdb

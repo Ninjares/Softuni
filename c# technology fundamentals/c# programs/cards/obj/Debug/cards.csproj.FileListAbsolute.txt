@@ -1,0 +1,2 @@
+C:\Users\mm1-ignis\Desktop\c# programs\cards\obj\Debug\cards.csprojAssemblyReference.cache
+C:\Users\mm1-ignis\Desktop\c# programs\cards\obj\Debug\cards.csproj.CoreCompileInputs.cache

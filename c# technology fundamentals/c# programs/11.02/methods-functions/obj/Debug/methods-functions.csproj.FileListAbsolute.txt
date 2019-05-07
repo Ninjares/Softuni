@@ -1,0 +1,7 @@
+C:\Users\mm1-ignis\Desktop\c# programs\11.02\methods-functions\bin\Debug\methods-functions.exe.config
+C:\Users\mm1-ignis\Desktop\c# programs\11.02\methods-functions\bin\Debug\methods-functions.exe
+C:\Users\mm1-ignis\Desktop\c# programs\11.02\methods-functions\bin\Debug\methods-functions.pdb
+C:\Users\mm1-ignis\Desktop\c# programs\11.02\methods-functions\obj\Debug\methods-functions.csprojAssemblyReference.cache
+C:\Users\mm1-ignis\Desktop\c# programs\11.02\methods-functions\obj\Debug\methods-functions.csproj.CoreCompileInputs.cache
+C:\Users\mm1-ignis\Desktop\c# programs\11.02\methods-functions\obj\Debug\methods-functions.exe
+C:\Users\mm1-ignis\Desktop\c# programs\11.02\methods-functions\obj\Debug\methods-functions.pdb

@@ -1,0 +1,7 @@
+C:\Users\mm1-ignis\Desktop\c# programs\18.02\gauss' trick\bin\Debug\gauss' trick.exe.config
+C:\Users\mm1-ignis\Desktop\c# programs\18.02\gauss' trick\bin\Debug\gauss' trick.exe
+C:\Users\mm1-ignis\Desktop\c# programs\18.02\gauss' trick\bin\Debug\gauss' trick.pdb
+C:\Users\mm1-ignis\Desktop\c# programs\18.02\gauss' trick\obj\Debug\gauss' trick.csprojAssemblyReference.cache
+C:\Users\mm1-ignis\Desktop\c# programs\18.02\gauss' trick\obj\Debug\gauss' trick.csproj.CoreCompileInputs.cache
+C:\Users\mm1-ignis\Desktop\c# programs\18.02\gauss' trick\obj\Debug\gauss' trick.exe
+C:\Users\mm1-ignis\Desktop\c# programs\18.02\gauss' trick\obj\Debug\gauss' trick.pdb
