@@ -1,0 +1,7 @@
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\14.05\QueueExcercise\bin\Debug\QueueExcercise.exe.config
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\14.05\QueueExcercise\bin\Debug\QueueExcercise.exe
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\14.05\QueueExcercise\bin\Debug\QueueExcercise.pdb
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\14.05\QueueExcercise\obj\Debug\QueueExcercise.csprojAssemblyReference.cache
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\14.05\QueueExcercise\obj\Debug\QueueExcercise.csproj.CoreCompileInputs.cache
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\14.05\QueueExcercise\obj\Debug\QueueExcercise.exe
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\14.05\QueueExcercise\obj\Debug\QueueExcercise.pdb

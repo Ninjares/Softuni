@@ -1,0 +1,7 @@
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\14.05\excercise stax\obj\Debug\excercise stax.csprojAssemblyReference.cache
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\14.05\excercise stax\obj\Debug\excercise stax.csproj.CoreCompileInputs.cache
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\14.05\excercise stax\bin\Debug\excercise stax.exe.config
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\14.05\excercise stax\bin\Debug\excercise stax.exe
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\14.05\excercise stax\bin\Debug\excercise stax.pdb
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\14.05\excercise stax\obj\Debug\excercise stax.exe
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\14.05\excercise stax\obj\Debug\excercise stax.pdb

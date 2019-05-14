@@ -1,0 +1,7 @@
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\14.05\Stacksnmaybequeues\bin\Debug\Stacksnmaybequeues.exe.config
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\14.05\Stacksnmaybequeues\bin\Debug\Stacksnmaybequeues.exe
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\14.05\Stacksnmaybequeues\bin\Debug\Stacksnmaybequeues.pdb
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\14.05\Stacksnmaybequeues\obj\Debug\Stacksnmaybequeues.csprojAssemblyReference.cache
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\14.05\Stacksnmaybequeues\obj\Debug\Stacksnmaybequeues.csproj.CoreCompileInputs.cache
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\14.05\Stacksnmaybequeues\obj\Debug\Stacksnmaybequeues.exe
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\14.05\Stacksnmaybequeues\obj\Debug\Stacksnmaybequeues.pdb
