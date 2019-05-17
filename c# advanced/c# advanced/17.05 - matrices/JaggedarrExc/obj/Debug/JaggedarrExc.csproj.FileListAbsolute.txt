@@ -1,0 +1,7 @@
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\17.05 - matrices\JaggedarrExc\bin\Debug\JaggedarrExc.exe.config
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\17.05 - matrices\JaggedarrExc\bin\Debug\JaggedarrExc.exe
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\17.05 - matrices\JaggedarrExc\bin\Debug\JaggedarrExc.pdb
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\17.05 - matrices\JaggedarrExc\obj\Debug\JaggedarrExc.csprojAssemblyReference.cache
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\17.05 - matrices\JaggedarrExc\obj\Debug\JaggedarrExc.csproj.CoreCompileInputs.cache
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\17.05 - matrices\JaggedarrExc\obj\Debug\JaggedarrExc.exe
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\17.05 - matrices\JaggedarrExc\obj\Debug\JaggedarrExc.pdb
