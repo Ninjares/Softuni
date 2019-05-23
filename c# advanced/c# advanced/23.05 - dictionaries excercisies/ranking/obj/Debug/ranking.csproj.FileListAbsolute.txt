@@ -1,0 +1,7 @@
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\23.05 - dictionaries excercisies\ranking\bin\Debug\ranking.exe.config
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\23.05 - dictionaries excercisies\ranking\bin\Debug\ranking.exe
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\23.05 - dictionaries excercisies\ranking\bin\Debug\ranking.pdb
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\23.05 - dictionaries excercisies\ranking\obj\Debug\ranking.csprojAssemblyReference.cache
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\23.05 - dictionaries excercisies\ranking\obj\Debug\ranking.csproj.CoreCompileInputs.cache
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\23.05 - dictionaries excercisies\ranking\obj\Debug\ranking.exe
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\23.05 - dictionaries excercisies\ranking\obj\Debug\ranking.pdb

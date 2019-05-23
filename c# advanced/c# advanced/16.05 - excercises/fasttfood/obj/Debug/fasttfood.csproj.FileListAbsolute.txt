@@ -1,0 +1,7 @@
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\16.05 - excercises\fasttfood\bin\Debug\fasttfood.exe.config
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\16.05 - excercises\fasttfood\bin\Debug\fasttfood.exe
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\16.05 - excercises\fasttfood\bin\Debug\fasttfood.pdb
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\16.05 - excercises\fasttfood\obj\Debug\fasttfood.csprojAssemblyReference.cache
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\16.05 - excercises\fasttfood\obj\Debug\fasttfood.csproj.CoreCompileInputs.cache
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\16.05 - excercises\fasttfood\obj\Debug\fasttfood.exe
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\16.05 - excercises\fasttfood\obj\Debug\fasttfood.pdb
