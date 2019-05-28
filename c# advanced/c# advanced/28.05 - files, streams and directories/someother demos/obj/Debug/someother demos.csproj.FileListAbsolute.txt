@@ -1,0 +1,7 @@
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\28.05 - files, streams and directories\someother demos\bin\Debug\someother demos.exe.config
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\28.05 - files, streams and directories\someother demos\bin\Debug\someother demos.exe
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\28.05 - files, streams and directories\someother demos\bin\Debug\someother demos.pdb
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\28.05 - files, streams and directories\someother demos\obj\Debug\someother demos.csprojAssemblyReference.cache
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\28.05 - files, streams and directories\someother demos\obj\Debug\someother demos.csproj.CoreCompileInputs.cache
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\28.05 - files, streams and directories\someother demos\obj\Debug\someother demos.exe
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\28.05 - files, streams and directories\someother demos\obj\Debug\someother demos.pdb
