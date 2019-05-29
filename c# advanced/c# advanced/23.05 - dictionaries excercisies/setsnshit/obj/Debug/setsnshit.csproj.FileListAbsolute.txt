@@ -1,0 +1,7 @@
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# advanced\23.05 - dictionaries excercisies\setsnshit\bin\Debug\setsnshit.exe.config
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# advanced\23.05 - dictionaries excercisies\setsnshit\bin\Debug\setsnshit.exe
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# advanced\23.05 - dictionaries excercisies\setsnshit\bin\Debug\setsnshit.pdb
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# advanced\23.05 - dictionaries excercisies\setsnshit\obj\Debug\setsnshit.csprojAssemblyReference.cache
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# advanced\23.05 - dictionaries excercisies\setsnshit\obj\Debug\setsnshit.csproj.CoreCompileInputs.cache
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# advanced\23.05 - dictionaries excercisies\setsnshit\obj\Debug\setsnshit.exe
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# advanced\23.05 - dictionaries excercisies\setsnshit\obj\Debug\setsnshit.pdb

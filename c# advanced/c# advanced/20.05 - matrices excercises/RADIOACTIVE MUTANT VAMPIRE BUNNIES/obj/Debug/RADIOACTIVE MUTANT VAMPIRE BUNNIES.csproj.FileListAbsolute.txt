@@ -1,0 +1,7 @@
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# advanced\20.05 - matrices excercises\RADIOACTIVE MUTANT VAMPIRE BUNNIES\bin\Debug\RADIOACTIVE MUTANT VAMPIRE BUNNIES.exe.config
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# advanced\20.05 - matrices excercises\RADIOACTIVE MUTANT VAMPIRE BUNNIES\bin\Debug\RADIOACTIVE MUTANT VAMPIRE BUNNIES.exe
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# advanced\20.05 - matrices excercises\RADIOACTIVE MUTANT VAMPIRE BUNNIES\bin\Debug\RADIOACTIVE MUTANT VAMPIRE BUNNIES.pdb
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# advanced\20.05 - matrices excercises\RADIOACTIVE MUTANT VAMPIRE BUNNIES\obj\Debug\RADIOACTIVE MUTANT VAMPIRE BUNNIES.csprojAssemblyReference.cache
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# advanced\20.05 - matrices excercises\RADIOACTIVE MUTANT VAMPIRE BUNNIES\obj\Debug\RADIOACTIVE MUTANT VAMPIRE BUNNIES.csproj.CoreCompileInputs.cache
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# advanced\20.05 - matrices excercises\RADIOACTIVE MUTANT VAMPIRE BUNNIES\obj\Debug\RADIOACTIVE MUTANT VAMPIRE BUNNIES.exe
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# advanced\20.05 - matrices excercises\RADIOACTIVE MUTANT VAMPIRE BUNNIES\obj\Debug\RADIOACTIVE MUTANT VAMPIRE BUNNIES.pdb
