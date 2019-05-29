@@ -1,0 +1,11 @@
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\28.05 - files, streams and directories\fstream excercise\bin\Debug\netcoreapp2.2\fstream excercise.deps.json
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\28.05 - files, streams and directories\fstream excercise\bin\Debug\netcoreapp2.2\fstream excercise.runtimeconfig.json
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\28.05 - files, streams and directories\fstream excercise\bin\Debug\netcoreapp2.2\fstream excercise.runtimeconfig.dev.json
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\28.05 - files, streams and directories\fstream excercise\bin\Debug\netcoreapp2.2\fstream excercise.dll
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\28.05 - files, streams and directories\fstream excercise\bin\Debug\netcoreapp2.2\fstream excercise.pdb
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\28.05 - files, streams and directories\fstream excercise\obj\Debug\netcoreapp2.2\fstream excercise.csprojAssemblyReference.cache
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\28.05 - files, streams and directories\fstream excercise\obj\Debug\netcoreapp2.2\fstream excercise.csproj.CoreCompileInputs.cache
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\28.05 - files, streams and directories\fstream excercise\obj\Debug\netcoreapp2.2\fstream excercise.AssemblyInfoInputs.cache
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\28.05 - files, streams and directories\fstream excercise\obj\Debug\netcoreapp2.2\fstream excercise.AssemblyInfo.cs
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\28.05 - files, streams and directories\fstream excercise\obj\Debug\netcoreapp2.2\fstream excercise.dll
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\28.05 - files, streams and directories\fstream excercise\obj\Debug\netcoreapp2.2\fstream excercise.pdb
