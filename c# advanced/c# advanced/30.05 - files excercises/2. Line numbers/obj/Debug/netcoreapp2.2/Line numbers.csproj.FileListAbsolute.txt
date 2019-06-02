@@ -1,0 +1,22 @@
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\30.05 - files excercises\Line numbers\bin\Debug\netcoreapp2.2\Line numbers.deps.json
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\30.05 - files excercises\Line numbers\bin\Debug\netcoreapp2.2\Line numbers.runtimeconfig.json
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\30.05 - files excercises\Line numbers\bin\Debug\netcoreapp2.2\Line numbers.runtimeconfig.dev.json
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\30.05 - files excercises\Line numbers\bin\Debug\netcoreapp2.2\Line numbers.dll
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\30.05 - files excercises\Line numbers\bin\Debug\netcoreapp2.2\Line numbers.pdb
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\30.05 - files excercises\Line numbers\obj\Debug\netcoreapp2.2\Line numbers.csprojAssemblyReference.cache
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\30.05 - files excercises\Line numbers\obj\Debug\netcoreapp2.2\Line numbers.csproj.CoreCompileInputs.cache
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\30.05 - files excercises\Line numbers\obj\Debug\netcoreapp2.2\Line numbers.AssemblyInfoInputs.cache
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\30.05 - files excercises\Line numbers\obj\Debug\netcoreapp2.2\Line numbers.AssemblyInfo.cs
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\30.05 - files excercises\Line numbers\obj\Debug\netcoreapp2.2\Line numbers.dll
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\30.05 - files excercises\Line numbers\obj\Debug\netcoreapp2.2\Line numbers.pdb
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# advanced\30.05 - files excercises\2. Line numbers\bin\Debug\netcoreapp2.2\Line numbers.deps.json
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# advanced\30.05 - files excercises\2. Line numbers\bin\Debug\netcoreapp2.2\Line numbers.runtimeconfig.json
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# advanced\30.05 - files excercises\2. Line numbers\bin\Debug\netcoreapp2.2\Line numbers.runtimeconfig.dev.json
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# advanced\30.05 - files excercises\2. Line numbers\bin\Debug\netcoreapp2.2\Line numbers.dll
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# advanced\30.05 - files excercises\2. Line numbers\bin\Debug\netcoreapp2.2\Line numbers.pdb
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# advanced\30.05 - files excercises\2. Line numbers\obj\Debug\netcoreapp2.2\Line numbers.csprojAssemblyReference.cache
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# advanced\30.05 - files excercises\2. Line numbers\obj\Debug\netcoreapp2.2\Line numbers.csproj.CoreCompileInputs.cache
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# advanced\30.05 - files excercises\2. Line numbers\obj\Debug\netcoreapp2.2\Line numbers.AssemblyInfoInputs.cache
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# advanced\30.05 - files excercises\2. Line numbers\obj\Debug\netcoreapp2.2\Line numbers.AssemblyInfo.cs
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# advanced\30.05 - files excercises\2. Line numbers\obj\Debug\netcoreapp2.2\Line numbers.dll
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# advanced\30.05 - files excercises\2. Line numbers\obj\Debug\netcoreapp2.2\Line numbers.pdb

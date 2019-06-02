@@ -1,0 +1,22 @@
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\30.05 - files excercises\copy binary file\bin\Debug\netcoreapp2.2\copy binary file.deps.json
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\30.05 - files excercises\copy binary file\bin\Debug\netcoreapp2.2\copy binary file.runtimeconfig.json
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\30.05 - files excercises\copy binary file\bin\Debug\netcoreapp2.2\copy binary file.runtimeconfig.dev.json
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\30.05 - files excercises\copy binary file\bin\Debug\netcoreapp2.2\copy binary file.dll
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\30.05 - files excercises\copy binary file\bin\Debug\netcoreapp2.2\copy binary file.pdb
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\30.05 - files excercises\copy binary file\obj\Debug\netcoreapp2.2\copy binary file.csprojAssemblyReference.cache
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\30.05 - files excercises\copy binary file\obj\Debug\netcoreapp2.2\copy binary file.csproj.CoreCompileInputs.cache
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\30.05 - files excercises\copy binary file\obj\Debug\netcoreapp2.2\copy binary file.AssemblyInfoInputs.cache
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\30.05 - files excercises\copy binary file\obj\Debug\netcoreapp2.2\copy binary file.AssemblyInfo.cs
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\30.05 - files excercises\copy binary file\obj\Debug\netcoreapp2.2\copy binary file.dll
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\30.05 - files excercises\copy binary file\obj\Debug\netcoreapp2.2\copy binary file.pdb
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# advanced\30.05 - files excercises\4. copy binary file\bin\Debug\netcoreapp2.2\copy binary file.deps.json
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# advanced\30.05 - files excercises\4. copy binary file\bin\Debug\netcoreapp2.2\copy binary file.runtimeconfig.json
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# advanced\30.05 - files excercises\4. copy binary file\bin\Debug\netcoreapp2.2\copy binary file.runtimeconfig.dev.json
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# advanced\30.05 - files excercises\4. copy binary file\bin\Debug\netcoreapp2.2\copy binary file.dll
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# advanced\30.05 - files excercises\4. copy binary file\bin\Debug\netcoreapp2.2\copy binary file.pdb
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# advanced\30.05 - files excercises\4. copy binary file\obj\Debug\netcoreapp2.2\copy binary file.csprojAssemblyReference.cache
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# advanced\30.05 - files excercises\4. copy binary file\obj\Debug\netcoreapp2.2\copy binary file.csproj.CoreCompileInputs.cache
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# advanced\30.05 - files excercises\4. copy binary file\obj\Debug\netcoreapp2.2\copy binary file.AssemblyInfoInputs.cache
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# advanced\30.05 - files excercises\4. copy binary file\obj\Debug\netcoreapp2.2\copy binary file.AssemblyInfo.cs
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# advanced\30.05 - files excercises\4. copy binary file\obj\Debug\netcoreapp2.2\copy binary file.dll
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# advanced\30.05 - files excercises\4. copy binary file\obj\Debug\netcoreapp2.2\copy binary file.pdb
