@@ -1,7 +1,0 @@
-C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\30.05 - files excercises\Even lines\bin\Debug\Even lines.exe.config
-C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\30.05 - files excercises\Even lines\bin\Debug\Even lines.exe
-C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\30.05 - files excercises\Even lines\bin\Debug\Even lines.pdb
-C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\30.05 - files excercises\Even lines\obj\Debug\Even lines.csprojAssemblyReference.cache
-C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\30.05 - files excercises\Even lines\obj\Debug\Even lines.csproj.CoreCompileInputs.cache
-C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\30.05 - files excercises\Even lines\obj\Debug\Even lines.exe
-C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\30.05 - files excercises\Even lines\obj\Debug\Even lines.pdb
