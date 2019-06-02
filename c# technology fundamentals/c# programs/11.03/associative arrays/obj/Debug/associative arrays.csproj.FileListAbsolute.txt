@@ -1,7 +1,0 @@
-C:\Users\mm1-ignis\Desktop\c# programs\11.03\associative arrays\obj\Debug\associative arrays.csprojAssemblyReference.cache
-C:\Users\mm1-ignis\Desktop\c# programs\11.03\associative arrays\obj\Debug\associative arrays.csproj.CoreCompileInputs.cache
-C:\Users\mm1-ignis\Desktop\c# programs\11.03\associative arrays\bin\Debug\associative arrays.exe.config
-C:\Users\mm1-ignis\Desktop\c# programs\11.03\associative arrays\bin\Debug\associative arrays.exe
-C:\Users\mm1-ignis\Desktop\c# programs\11.03\associative arrays\bin\Debug\associative arrays.pdb
-C:\Users\mm1-ignis\Desktop\c# programs\11.03\associative arrays\obj\Debug\associative arrays.exe
-C:\Users\mm1-ignis\Desktop\c# programs\11.03\associative arrays\obj\Debug\associative arrays.pdb

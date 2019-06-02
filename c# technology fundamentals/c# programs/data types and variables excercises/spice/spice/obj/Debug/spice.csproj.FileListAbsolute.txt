@@ -1,7 +1,0 @@
-C:\Users\mm1-ignis\Desktop\c# programs\data types and variables excercises\spice\spice\bin\Debug\spice.exe.config
-C:\Users\mm1-ignis\Desktop\c# programs\data types and variables excercises\spice\spice\bin\Debug\spice.exe
-C:\Users\mm1-ignis\Desktop\c# programs\data types and variables excercises\spice\spice\bin\Debug\spice.pdb
-C:\Users\mm1-ignis\Desktop\c# programs\data types and variables excercises\spice\spice\obj\Debug\spice.csprojAssemblyReference.cache
-C:\Users\mm1-ignis\Desktop\c# programs\data types and variables excercises\spice\spice\obj\Debug\spice.csproj.CoreCompileInputs.cache
-C:\Users\mm1-ignis\Desktop\c# programs\data types and variables excercises\spice\spice\obj\Debug\spice.exe
-C:\Users\mm1-ignis\Desktop\c# programs\data types and variables excercises\spice\spice\obj\Debug\spice.pdb

@@ -1,7 +1,0 @@
-C:\Users\mm1-ignis\Desktop\c# programs\strings\bin\Debug\strings.exe.config
-C:\Users\mm1-ignis\Desktop\c# programs\strings\bin\Debug\strings.exe
-C:\Users\mm1-ignis\Desktop\c# programs\strings\bin\Debug\strings.pdb
-C:\Users\mm1-ignis\Desktop\c# programs\strings\obj\Debug\strings.csprojAssemblyReference.cache
-C:\Users\mm1-ignis\Desktop\c# programs\strings\obj\Debug\strings.csproj.CoreCompileInputs.cache
-C:\Users\mm1-ignis\Desktop\c# programs\strings\obj\Debug\strings.exe
-C:\Users\mm1-ignis\Desktop\c# programs\strings\obj\Debug\strings.pdb

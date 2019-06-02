@@ -1,7 +1,0 @@
-C:\Users\mm1-ignis\Desktop\c# programs\11.03\foars\obj\Debug\foars.csprojAssemblyReference.cache
-C:\Users\mm1-ignis\Desktop\c# programs\11.03\foars\obj\Debug\foars.csproj.CoreCompileInputs.cache
-C:\Users\mm1-ignis\Desktop\c# programs\11.03\foars\bin\Debug\foars.exe.config
-C:\Users\mm1-ignis\Desktop\c# programs\11.03\foars\bin\Debug\foars.exe
-C:\Users\mm1-ignis\Desktop\c# programs\11.03\foars\bin\Debug\foars.pdb
-C:\Users\mm1-ignis\Desktop\c# programs\11.03\foars\obj\Debug\foars.exe
-C:\Users\mm1-ignis\Desktop\c# programs\11.03\foars\obj\Debug\foars.pdb

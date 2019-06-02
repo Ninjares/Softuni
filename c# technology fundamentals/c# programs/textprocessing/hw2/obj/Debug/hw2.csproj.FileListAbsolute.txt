@@ -1,7 +1,0 @@
-C:\Users\mm1-ignis\Desktop\c# programs\textprocessing\hw2\bin\Debug\hw2.exe.config
-C:\Users\mm1-ignis\Desktop\c# programs\textprocessing\hw2\bin\Debug\hw2.exe
-C:\Users\mm1-ignis\Desktop\c# programs\textprocessing\hw2\bin\Debug\hw2.pdb
-C:\Users\mm1-ignis\Desktop\c# programs\textprocessing\hw2\obj\Debug\hw2.csprojAssemblyReference.cache
-C:\Users\mm1-ignis\Desktop\c# programs\textprocessing\hw2\obj\Debug\hw2.csproj.CoreCompileInputs.cache
-C:\Users\mm1-ignis\Desktop\c# programs\textprocessing\hw2\obj\Debug\hw2.exe
-C:\Users\mm1-ignis\Desktop\c# programs\textprocessing\hw2\obj\Debug\hw2.pdb

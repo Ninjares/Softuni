@@ -1,7 +1,0 @@
-C:\Users\mm1-ignis\Desktop\c# programs\25.02\objectsandclasses\bin\Debug\objectsandclasses.exe.config
-C:\Users\mm1-ignis\Desktop\c# programs\25.02\objectsandclasses\bin\Debug\objectsandclasses.exe
-C:\Users\mm1-ignis\Desktop\c# programs\25.02\objectsandclasses\bin\Debug\objectsandclasses.pdb
-C:\Users\mm1-ignis\Desktop\c# programs\25.02\objectsandclasses\obj\Debug\objectsandclasses.csprojAssemblyReference.cache
-C:\Users\mm1-ignis\Desktop\c# programs\25.02\objectsandclasses\obj\Debug\objectsandclasses.csproj.CoreCompileInputs.cache
-C:\Users\mm1-ignis\Desktop\c# programs\25.02\objectsandclasses\obj\Debug\objectsandclasses.exe
-C:\Users\mm1-ignis\Desktop\c# programs\25.02\objectsandclasses\obj\Debug\objectsandclasses.pdb

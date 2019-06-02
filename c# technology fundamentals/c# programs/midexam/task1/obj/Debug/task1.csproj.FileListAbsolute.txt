@@ -1,7 +1,0 @@
-C:\Users\mm1-ignis\Desktop\midexam\task1\bin\Debug\task1.exe.config
-C:\Users\mm1-ignis\Desktop\midexam\task1\bin\Debug\task1.exe
-C:\Users\mm1-ignis\Desktop\midexam\task1\bin\Debug\task1.pdb
-C:\Users\mm1-ignis\Desktop\midexam\task1\obj\Debug\task1.csprojAssemblyReference.cache
-C:\Users\mm1-ignis\Desktop\midexam\task1\obj\Debug\task1.csproj.CoreCompileInputs.cache
-C:\Users\mm1-ignis\Desktop\midexam\task1\obj\Debug\task1.exe
-C:\Users\mm1-ignis\Desktop\midexam\task1\obj\Debug\task1.pdb

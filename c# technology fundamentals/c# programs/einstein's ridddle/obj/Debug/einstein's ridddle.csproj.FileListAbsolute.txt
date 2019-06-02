@@ -1,7 +1,0 @@
-C:\Users\mm1-ignis\Desktop\c# programs\einstein's ridddle\bin\Debug\einstein's ridddle.exe.config
-C:\Users\mm1-ignis\Desktop\c# programs\einstein's ridddle\bin\Debug\einstein's ridddle.exe
-C:\Users\mm1-ignis\Desktop\c# programs\einstein's ridddle\bin\Debug\einstein's ridddle.pdb
-C:\Users\mm1-ignis\Desktop\c# programs\einstein's ridddle\obj\Debug\einstein's ridddle.csprojAssemblyReference.cache
-C:\Users\mm1-ignis\Desktop\c# programs\einstein's ridddle\obj\Debug\einstein's ridddle.csproj.CoreCompileInputs.cache
-C:\Users\mm1-ignis\Desktop\c# programs\einstein's ridddle\obj\Debug\einstein's ridddle.exe
-C:\Users\mm1-ignis\Desktop\c# programs\einstein's ridddle\obj\Debug\einstein's ridddle.pdb

@@ -1,7 +1,0 @@
-C:\Users\mm1-ignis\Desktop\c# programs\arraymanipulator\bin\Debug\arraymanipulator.exe.config
-C:\Users\mm1-ignis\Desktop\c# programs\arraymanipulator\bin\Debug\arraymanipulator.exe
-C:\Users\mm1-ignis\Desktop\c# programs\arraymanipulator\bin\Debug\arraymanipulator.pdb
-C:\Users\mm1-ignis\Desktop\c# programs\arraymanipulator\obj\Debug\arraymanipulator.csprojAssemblyReference.cache
-C:\Users\mm1-ignis\Desktop\c# programs\arraymanipulator\obj\Debug\arraymanipulator.csproj.CoreCompileInputs.cache
-C:\Users\mm1-ignis\Desktop\c# programs\arraymanipulator\obj\Debug\arraymanipulator.exe
-C:\Users\mm1-ignis\Desktop\c# programs\arraymanipulator\obj\Debug\arraymanipulator.pdb

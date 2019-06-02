@@ -1,7 +1,0 @@
-C:\Users\mm1-ignis\Desktop\c# programs\tetrisofficial\bin\Debug\tetrisofficial.exe.config
-C:\Users\mm1-ignis\Desktop\c# programs\tetrisofficial\bin\Debug\tetrisofficial.exe
-C:\Users\mm1-ignis\Desktop\c# programs\tetrisofficial\bin\Debug\tetrisofficial.pdb
-C:\Users\mm1-ignis\Desktop\c# programs\tetrisofficial\obj\Debug\tetrisofficial.csprojAssemblyReference.cache
-C:\Users\mm1-ignis\Desktop\c# programs\tetrisofficial\obj\Debug\tetrisofficial.csproj.CoreCompileInputs.cache
-C:\Users\mm1-ignis\Desktop\c# programs\tetrisofficial\obj\Debug\tetrisofficial.exe
-C:\Users\mm1-ignis\Desktop\c# programs\tetrisofficial\obj\Debug\tetrisofficial.pdb

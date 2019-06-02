@@ -1,7 +1,0 @@
-C:\Users\mm1-ignis\Desktop\c# programs\11.02\methods with vars\bin\Debug\methods with vars.exe.config
-C:\Users\mm1-ignis\Desktop\c# programs\11.02\methods with vars\bin\Debug\methods with vars.exe
-C:\Users\mm1-ignis\Desktop\c# programs\11.02\methods with vars\bin\Debug\methods with vars.pdb
-C:\Users\mm1-ignis\Desktop\c# programs\11.02\methods with vars\obj\Debug\methods with vars.csproj.CoreCompileInputs.cache
-C:\Users\mm1-ignis\Desktop\c# programs\11.02\methods with vars\obj\Debug\methods with vars.exe
-C:\Users\mm1-ignis\Desktop\c# programs\11.02\methods with vars\obj\Debug\methods with vars.pdb
-C:\Users\mm1-ignis\Desktop\c# programs\11.02\methods with vars\obj\Debug\methods with vars.csprojAssemblyReference.cache

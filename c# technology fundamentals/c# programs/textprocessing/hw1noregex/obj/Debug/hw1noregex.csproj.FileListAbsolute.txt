@@ -1,7 +1,0 @@
-C:\Users\mm1-ignis\Desktop\c# programs\textprocessing\hw1noregex\bin\Debug\hw1noregex.exe.config
-C:\Users\mm1-ignis\Desktop\c# programs\textprocessing\hw1noregex\bin\Debug\hw1noregex.exe
-C:\Users\mm1-ignis\Desktop\c# programs\textprocessing\hw1noregex\bin\Debug\hw1noregex.pdb
-C:\Users\mm1-ignis\Desktop\c# programs\textprocessing\hw1noregex\obj\Debug\hw1noregex.csprojAssemblyReference.cache
-C:\Users\mm1-ignis\Desktop\c# programs\textprocessing\hw1noregex\obj\Debug\hw1noregex.csproj.CoreCompileInputs.cache
-C:\Users\mm1-ignis\Desktop\c# programs\textprocessing\hw1noregex\obj\Debug\hw1noregex.exe
-C:\Users\mm1-ignis\Desktop\c# programs\textprocessing\hw1noregex\obj\Debug\hw1noregex.pdb

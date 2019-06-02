@@ -1,7 +1,0 @@
-C:\Users\mm1-ignis\Desktop\c# programs\28.01\floatsndubs\floatsndubs\bin\Debug\floatsndubs.exe.config
-C:\Users\mm1-ignis\Desktop\c# programs\28.01\floatsndubs\floatsndubs\bin\Debug\floatsndubs.exe
-C:\Users\mm1-ignis\Desktop\c# programs\28.01\floatsndubs\floatsndubs\bin\Debug\floatsndubs.pdb
-C:\Users\mm1-ignis\Desktop\c# programs\28.01\floatsndubs\floatsndubs\obj\Debug\floatsndubs.csprojAssemblyReference.cache
-C:\Users\mm1-ignis\Desktop\c# programs\28.01\floatsndubs\floatsndubs\obj\Debug\floatsndubs.csproj.CoreCompileInputs.cache
-C:\Users\mm1-ignis\Desktop\c# programs\28.01\floatsndubs\floatsndubs\obj\Debug\floatsndubs.exe
-C:\Users\mm1-ignis\Desktop\c# programs\28.01\floatsndubs\floatsndubs\obj\Debug\floatsndubs.pdb

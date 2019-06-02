@@ -1,6 +1,0 @@
-C:\Users\mm1-ignis\Desktop\c# programs\11.03\hw2\bin\Debug\hw2.exe.config
-C:\Users\mm1-ignis\Desktop\c# programs\11.03\hw2\bin\Debug\hw2.exe
-C:\Users\mm1-ignis\Desktop\c# programs\11.03\hw2\bin\Debug\hw2.pdb
-C:\Users\mm1-ignis\Desktop\c# programs\11.03\hw2\obj\Debug\hw2.csproj.CoreCompileInputs.cache
-C:\Users\mm1-ignis\Desktop\c# programs\11.03\hw2\obj\Debug\hw2.exe
-C:\Users\mm1-ignis\Desktop\c# programs\11.03\hw2\obj\Debug\hw2.pdb

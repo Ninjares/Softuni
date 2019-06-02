@@ -1,6 +1,0 @@
-C:\Users\mm1-ignis\Desktop\c# programs\arrayexcercises\numstoarrays\numstoarrays\bin\Debug\numstoarrays.exe.config
-C:\Users\mm1-ignis\Desktop\c# programs\arrayexcercises\numstoarrays\numstoarrays\bin\Debug\numstoarrays.exe
-C:\Users\mm1-ignis\Desktop\c# programs\arrayexcercises\numstoarrays\numstoarrays\bin\Debug\numstoarrays.pdb
-C:\Users\mm1-ignis\Desktop\c# programs\arrayexcercises\numstoarrays\numstoarrays\obj\Debug\numstoarrays.csproj.CoreCompileInputs.cache
-C:\Users\mm1-ignis\Desktop\c# programs\arrayexcercises\numstoarrays\numstoarrays\obj\Debug\numstoarrays.exe
-C:\Users\mm1-ignis\Desktop\c# programs\arrayexcercises\numstoarrays\numstoarrays\obj\Debug\numstoarrays.pdb

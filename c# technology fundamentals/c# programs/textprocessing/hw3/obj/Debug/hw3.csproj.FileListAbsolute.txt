@@ -1,7 +1,0 @@
-C:\Users\mm1-ignis\Desktop\c# programs\textprocessing\hw3\bin\Debug\hw3.exe.config
-C:\Users\mm1-ignis\Desktop\c# programs\textprocessing\hw3\bin\Debug\hw3.exe
-C:\Users\mm1-ignis\Desktop\c# programs\textprocessing\hw3\bin\Debug\hw3.pdb
-C:\Users\mm1-ignis\Desktop\c# programs\textprocessing\hw3\obj\Debug\hw3.csprojAssemblyReference.cache
-C:\Users\mm1-ignis\Desktop\c# programs\textprocessing\hw3\obj\Debug\hw3.csproj.CoreCompileInputs.cache
-C:\Users\mm1-ignis\Desktop\c# programs\textprocessing\hw3\obj\Debug\hw3.exe
-C:\Users\mm1-ignis\Desktop\c# programs\textprocessing\hw3\obj\Debug\hw3.pdb

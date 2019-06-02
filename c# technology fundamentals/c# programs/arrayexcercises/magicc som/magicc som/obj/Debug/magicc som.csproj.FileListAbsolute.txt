@@ -1,6 +1,0 @@
-C:\Users\mm1-ignis\Desktop\c# programs\arrayexcercises\magicc som\magicc som\bin\Debug\magicc som.exe.config
-C:\Users\mm1-ignis\Desktop\c# programs\arrayexcercises\magicc som\magicc som\bin\Debug\magicc som.exe
-C:\Users\mm1-ignis\Desktop\c# programs\arrayexcercises\magicc som\magicc som\bin\Debug\magicc som.pdb
-C:\Users\mm1-ignis\Desktop\c# programs\arrayexcercises\magicc som\magicc som\obj\Debug\magicc som.csproj.CoreCompileInputs.cache
-C:\Users\mm1-ignis\Desktop\c# programs\arrayexcercises\magicc som\magicc som\obj\Debug\magicc som.exe
-C:\Users\mm1-ignis\Desktop\c# programs\arrayexcercises\magicc som\magicc som\obj\Debug\magicc som.pdb

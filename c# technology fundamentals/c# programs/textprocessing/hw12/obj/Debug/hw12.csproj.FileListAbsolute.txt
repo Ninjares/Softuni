@@ -1,7 +1,0 @@
-C:\Users\mm1-ignis\Desktop\c# programs\textprocessing\hw12\bin\Debug\hw12.exe.config
-C:\Users\mm1-ignis\Desktop\c# programs\textprocessing\hw12\bin\Debug\hw12.exe
-C:\Users\mm1-ignis\Desktop\c# programs\textprocessing\hw12\bin\Debug\hw12.pdb
-C:\Users\mm1-ignis\Desktop\c# programs\textprocessing\hw12\obj\Debug\hw12.csprojAssemblyReference.cache
-C:\Users\mm1-ignis\Desktop\c# programs\textprocessing\hw12\obj\Debug\hw12.csproj.CoreCompileInputs.cache
-C:\Users\mm1-ignis\Desktop\c# programs\textprocessing\hw12\obj\Debug\hw12.exe
-C:\Users\mm1-ignis\Desktop\c# programs\textprocessing\hw12\obj\Debug\hw12.pdb

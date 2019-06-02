@@ -1,7 +1,0 @@
-C:\Users\mm1-ignis\Desktop\c# programs\listsexcercises\a bomb\bin\Debug\a bomb.exe.config
-C:\Users\mm1-ignis\Desktop\c# programs\listsexcercises\a bomb\bin\Debug\a bomb.exe
-C:\Users\mm1-ignis\Desktop\c# programs\listsexcercises\a bomb\bin\Debug\a bomb.pdb
-C:\Users\mm1-ignis\Desktop\c# programs\listsexcercises\a bomb\obj\Debug\a bomb.csprojAssemblyReference.cache
-C:\Users\mm1-ignis\Desktop\c# programs\listsexcercises\a bomb\obj\Debug\a bomb.csproj.CoreCompileInputs.cache
-C:\Users\mm1-ignis\Desktop\c# programs\listsexcercises\a bomb\obj\Debug\a bomb.exe
-C:\Users\mm1-ignis\Desktop\c# programs\listsexcercises\a bomb\obj\Debug\a bomb.pdb

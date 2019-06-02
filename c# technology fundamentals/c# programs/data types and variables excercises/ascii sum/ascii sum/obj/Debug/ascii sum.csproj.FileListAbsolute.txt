@@ -1,7 +1,0 @@
-C:\Users\mm1-ignis\Desktop\c# programs\data types and variables excercises\ascii sum\ascii sum\bin\Debug\ascii sum.exe.config
-C:\Users\mm1-ignis\Desktop\c# programs\data types and variables excercises\ascii sum\ascii sum\bin\Debug\ascii sum.exe
-C:\Users\mm1-ignis\Desktop\c# programs\data types and variables excercises\ascii sum\ascii sum\bin\Debug\ascii sum.pdb
-C:\Users\mm1-ignis\Desktop\c# programs\data types and variables excercises\ascii sum\ascii sum\obj\Debug\ascii sum.csproj.CoreCompileInputs.cache
-C:\Users\mm1-ignis\Desktop\c# programs\data types and variables excercises\ascii sum\ascii sum\obj\Debug\ascii sum.exe
-C:\Users\mm1-ignis\Desktop\c# programs\data types and variables excercises\ascii sum\ascii sum\obj\Debug\ascii sum.pdb
-C:\Users\mm1-ignis\Desktop\c# programs\data types and variables excercises\ascii sum\ascii sum\obj\Debug\ascii sum.csprojAssemblyReference.cache

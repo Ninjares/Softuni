@@ -1,7 +1,0 @@
-C:\Users\mm1-ignis\Desktop\midexam\finalquest\bin\Debug\finalquest.exe.config
-C:\Users\mm1-ignis\Desktop\midexam\finalquest\bin\Debug\finalquest.exe
-C:\Users\mm1-ignis\Desktop\midexam\finalquest\bin\Debug\finalquest.pdb
-C:\Users\mm1-ignis\Desktop\midexam\finalquest\obj\Debug\finalquest.csprojAssemblyReference.cache
-C:\Users\mm1-ignis\Desktop\midexam\finalquest\obj\Debug\finalquest.csproj.CoreCompileInputs.cache
-C:\Users\mm1-ignis\Desktop\midexam\finalquest\obj\Debug\finalquest.exe
-C:\Users\mm1-ignis\Desktop\midexam\finalquest\obj\Debug\finalquest.pdb
