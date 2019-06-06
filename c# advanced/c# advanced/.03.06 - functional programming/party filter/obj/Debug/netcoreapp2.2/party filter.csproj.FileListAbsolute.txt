@@ -1,0 +1,11 @@
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\.03.06 - functional programming\party filter\bin\Debug\netcoreapp2.2\party filter.deps.json
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\.03.06 - functional programming\party filter\bin\Debug\netcoreapp2.2\party filter.runtimeconfig.json
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\.03.06 - functional programming\party filter\bin\Debug\netcoreapp2.2\party filter.runtimeconfig.dev.json
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\.03.06 - functional programming\party filter\bin\Debug\netcoreapp2.2\party filter.dll
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\.03.06 - functional programming\party filter\bin\Debug\netcoreapp2.2\party filter.pdb
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\.03.06 - functional programming\party filter\obj\Debug\netcoreapp2.2\party filter.csprojAssemblyReference.cache
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\.03.06 - functional programming\party filter\obj\Debug\netcoreapp2.2\party filter.csproj.CoreCompileInputs.cache
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\.03.06 - functional programming\party filter\obj\Debug\netcoreapp2.2\party filter.AssemblyInfoInputs.cache
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\.03.06 - functional programming\party filter\obj\Debug\netcoreapp2.2\party filter.AssemblyInfo.cs
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\.03.06 - functional programming\party filter\obj\Debug\netcoreapp2.2\party filter.dll
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\.03.06 - functional programming\party filter\obj\Debug\netcoreapp2.2\party filter.pdb

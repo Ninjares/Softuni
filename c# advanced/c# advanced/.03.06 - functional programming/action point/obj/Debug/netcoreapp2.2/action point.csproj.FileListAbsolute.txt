@@ -1,0 +1,11 @@
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\03.06 - functional programming\action point\bin\Debug\netcoreapp2.2\action point.deps.json
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\03.06 - functional programming\action point\bin\Debug\netcoreapp2.2\action point.runtimeconfig.json
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\03.06 - functional programming\action point\bin\Debug\netcoreapp2.2\action point.runtimeconfig.dev.json
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\03.06 - functional programming\action point\bin\Debug\netcoreapp2.2\action point.dll
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\03.06 - functional programming\action point\bin\Debug\netcoreapp2.2\action point.pdb
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\03.06 - functional programming\action point\obj\Debug\netcoreapp2.2\action point.csprojAssemblyReference.cache
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\03.06 - functional programming\action point\obj\Debug\netcoreapp2.2\action point.csproj.CoreCompileInputs.cache
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\03.06 - functional programming\action point\obj\Debug\netcoreapp2.2\action point.AssemblyInfoInputs.cache
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\03.06 - functional programming\action point\obj\Debug\netcoreapp2.2\action point.AssemblyInfo.cs
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\03.06 - functional programming\action point\obj\Debug\netcoreapp2.2\action point.dll
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\03.06 - functional programming\action point\obj\Debug\netcoreapp2.2\action point.pdb

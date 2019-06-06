@@ -1,0 +1,11 @@
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\.03.06 - functional programming\even or odd\bin\Debug\netcoreapp2.2\even or odd.deps.json
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\.03.06 - functional programming\even or odd\bin\Debug\netcoreapp2.2\even or odd.runtimeconfig.json
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\.03.06 - functional programming\even or odd\bin\Debug\netcoreapp2.2\even or odd.runtimeconfig.dev.json
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\.03.06 - functional programming\even or odd\bin\Debug\netcoreapp2.2\even or odd.dll
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\.03.06 - functional programming\even or odd\bin\Debug\netcoreapp2.2\even or odd.pdb
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\.03.06 - functional programming\even or odd\obj\Debug\netcoreapp2.2\even or odd.csprojAssemblyReference.cache
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\.03.06 - functional programming\even or odd\obj\Debug\netcoreapp2.2\even or odd.csproj.CoreCompileInputs.cache
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\.03.06 - functional programming\even or odd\obj\Debug\netcoreapp2.2\even or odd.AssemblyInfoInputs.cache
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\.03.06 - functional programming\even or odd\obj\Debug\netcoreapp2.2\even or odd.AssemblyInfo.cs
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\.03.06 - functional programming\even or odd\obj\Debug\netcoreapp2.2\even or odd.dll
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\.03.06 - functional programming\even or odd\obj\Debug\netcoreapp2.2\even or odd.pdb

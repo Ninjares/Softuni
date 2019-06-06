@@ -1,0 +1,11 @@
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\.03.06 - functional programming\Custom min function\bin\Debug\netcoreapp2.2\Custom min function.deps.json
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\.03.06 - functional programming\Custom min function\bin\Debug\netcoreapp2.2\Custom min function.runtimeconfig.json
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\.03.06 - functional programming\Custom min function\bin\Debug\netcoreapp2.2\Custom min function.runtimeconfig.dev.json
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\.03.06 - functional programming\Custom min function\bin\Debug\netcoreapp2.2\Custom min function.dll
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\.03.06 - functional programming\Custom min function\bin\Debug\netcoreapp2.2\Custom min function.pdb
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\.03.06 - functional programming\Custom min function\obj\Debug\netcoreapp2.2\Custom min function.csprojAssemblyReference.cache
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\.03.06 - functional programming\Custom min function\obj\Debug\netcoreapp2.2\Custom min function.csproj.CoreCompileInputs.cache
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\.03.06 - functional programming\Custom min function\obj\Debug\netcoreapp2.2\Custom min function.AssemblyInfoInputs.cache
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\.03.06 - functional programming\Custom min function\obj\Debug\netcoreapp2.2\Custom min function.AssemblyInfo.cs
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\.03.06 - functional programming\Custom min function\obj\Debug\netcoreapp2.2\Custom min function.dll
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\.03.06 - functional programming\Custom min function\obj\Debug\netcoreapp2.2\Custom min function.pdb
