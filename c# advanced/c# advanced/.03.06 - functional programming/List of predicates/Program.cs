@@ -22,17 +22,11 @@ namespace List_of_predicates
                 return a;
             };
 
-            int GCN = 0; //nay-malko obshto delimo
-            bool found = false;
-            for (int i = 1; i <= n && !found; i++)
+
+            for (int i = 1; i <= n; i++)
             {
-                bool divisable = true;
-                foreach (int divisor in divisors)
-                    if (i % divisor != 0) { divisable = false; }
-                if (divisable) { GCN = i; found = true; }
+                if (div(i, divisors)) Console.Write($"{i} ");
             }
-           // Console.WriteLine(string.Join(", ", divisors));
-            for (int i = GCN; i <= n; i += GCN) Console.Write($"{i} ");
         }
     }
 }
