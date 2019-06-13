@@ -1,0 +1,11 @@
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\generics\excercises\count method strings\bin\Debug\netcoreapp2.1\count method strings.deps.json
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\generics\excercises\count method strings\bin\Debug\netcoreapp2.1\count method strings.runtimeconfig.json
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\generics\excercises\count method strings\bin\Debug\netcoreapp2.1\count method strings.runtimeconfig.dev.json
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\generics\excercises\count method strings\bin\Debug\netcoreapp2.1\count method strings.dll
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\generics\excercises\count method strings\bin\Debug\netcoreapp2.1\count method strings.pdb
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\generics\excercises\count method strings\obj\Debug\netcoreapp2.1\count method strings.csprojAssemblyReference.cache
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\generics\excercises\count method strings\obj\Debug\netcoreapp2.1\count method strings.csproj.CoreCompileInputs.cache
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\generics\excercises\count method strings\obj\Debug\netcoreapp2.1\count method strings.AssemblyInfoInputs.cache
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\generics\excercises\count method strings\obj\Debug\netcoreapp2.1\count method strings.AssemblyInfo.cs
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\generics\excercises\count method strings\obj\Debug\netcoreapp2.1\count method strings.dll
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\generics\excercises\count method strings\obj\Debug\netcoreapp2.1\count method strings.pdb
