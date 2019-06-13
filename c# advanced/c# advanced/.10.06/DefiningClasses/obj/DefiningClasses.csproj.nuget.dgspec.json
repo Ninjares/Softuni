@@ -1,36 +1,36 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mm1-ignis\\Desktop\\Softuni rep\\c# advanced\\c# advanced\\.10.06\\DefiningClasses\\DefiningClasses.csproj": {}
+    "C:\\Users\\mk2-bawk\\Desktop\\DefiningClasses\\DefiningClasses.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mm1-ignis\\Desktop\\Softuni rep\\c# advanced\\c# advanced\\.10.06\\DefiningClasses\\DefiningClasses.csproj": {
+    "C:\\Users\\mk2-bawk\\Desktop\\DefiningClasses\\DefiningClasses.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mm1-ignis\\Desktop\\Softuni rep\\c# advanced\\c# advanced\\.10.06\\DefiningClasses\\DefiningClasses.csproj",
+        "projectUniqueName": "C:\\Users\\mk2-bawk\\Desktop\\DefiningClasses\\DefiningClasses.csproj",
         "projectName": "DefiningClasses",
-        "projectPath": "C:\\Users\\mm1-ignis\\Desktop\\Softuni rep\\c# advanced\\c# advanced\\.10.06\\DefiningClasses\\DefiningClasses.csproj",
-        "packagesPath": "C:\\Users\\mm1-ignis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mm1-ignis\\Desktop\\Softuni rep\\c# advanced\\c# advanced\\.10.06\\DefiningClasses\\obj\\",
+        "projectPath": "C:\\Users\\mk2-bawk\\Desktop\\DefiningClasses\\DefiningClasses.csproj",
+        "packagesPath": "C:\\Users\\mk2-bawk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mk2-bawk\\Desktop\\DefiningClasses\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\mm1-ignis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mk2-bawk\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.2"
+          "netcoreapp2.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.2": {
+          "netcoreapp2.1": {
             "projectReferences": {}
           }
         },
@@ -41,12 +41,12 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.2": {
+        "netcoreapp2.1": {
           "dependencies": {
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.2.0, )",
+              "version": "[2.1.0, )",
               "autoReferenced": true
             }
           },

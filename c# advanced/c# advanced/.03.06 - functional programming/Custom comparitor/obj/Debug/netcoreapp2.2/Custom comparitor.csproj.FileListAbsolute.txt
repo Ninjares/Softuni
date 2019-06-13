@@ -1,0 +1,11 @@
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# advanced\.03.06 - functional programming\Custom comparitor\bin\Debug\netcoreapp2.2\Custom comparitor.deps.json
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# advanced\.03.06 - functional programming\Custom comparitor\bin\Debug\netcoreapp2.2\Custom comparitor.runtimeconfig.json
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# advanced\.03.06 - functional programming\Custom comparitor\bin\Debug\netcoreapp2.2\Custom comparitor.runtimeconfig.dev.json
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# advanced\.03.06 - functional programming\Custom comparitor\bin\Debug\netcoreapp2.2\Custom comparitor.dll
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# advanced\.03.06 - functional programming\Custom comparitor\bin\Debug\netcoreapp2.2\Custom comparitor.pdb
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# advanced\.03.06 - functional programming\Custom comparitor\obj\Debug\netcoreapp2.2\Custom comparitor.csprojAssemblyReference.cache
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# advanced\.03.06 - functional programming\Custom comparitor\obj\Debug\netcoreapp2.2\Custom comparitor.csproj.CoreCompileInputs.cache
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# advanced\.03.06 - functional programming\Custom comparitor\obj\Debug\netcoreapp2.2\Custom comparitor.AssemblyInfoInputs.cache
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# advanced\.03.06 - functional programming\Custom comparitor\obj\Debug\netcoreapp2.2\Custom comparitor.AssemblyInfo.cs
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# advanced\.03.06 - functional programming\Custom comparitor\obj\Debug\netcoreapp2.2\Custom comparitor.dll
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# advanced\.03.06 - functional programming\Custom comparitor\obj\Debug\netcoreapp2.2\Custom comparitor.pdb
