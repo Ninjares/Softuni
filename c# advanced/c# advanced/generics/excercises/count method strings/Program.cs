@@ -19,9 +19,8 @@ namespace count_method_strings
                 return $"{typeof(T)}: {item}";
             }
         }
-        class comparer<T> where T: IComparable
-        {
-            public static int compare(List<T> list, T compareto)
+        
+            public static int compare<T>(List<T> list, T compareto) where T: IComparable
             {
                 int count = 0;
                 foreach(T cmp in list)
@@ -31,18 +30,17 @@ namespace count_method_strings
                 return count;
 
             }
-        }
         static void Main(string[] args)
         {
-            List<string> collection = new List<string>();
+            List<double> collection = new List<double>();
             int n = int.Parse(Console.ReadLine());
             while (n != 0)
             {
-                collection.Add(Console.ReadLine());
+                collection.Add(double.Parse(Console.ReadLine()));
                 n--;
             }
 
-            Console.WriteLine(comparer<string>.compare(collection, Console.ReadLine()));
+            Console.WriteLine(compare<double>(collection, double.Parse(Console.ReadLine())));
         }
     }
 }
