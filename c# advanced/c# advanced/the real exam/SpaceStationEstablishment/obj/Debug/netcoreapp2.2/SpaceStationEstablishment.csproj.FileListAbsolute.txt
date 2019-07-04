@@ -1,0 +1,11 @@
+C:\Users\mm1-ignis\Desktop\the real exam\SpaceStationEstablishment\bin\Debug\netcoreapp2.2\SpaceStationEstablishment.deps.json
+C:\Users\mm1-ignis\Desktop\the real exam\SpaceStationEstablishment\bin\Debug\netcoreapp2.2\SpaceStationEstablishment.runtimeconfig.json
+C:\Users\mm1-ignis\Desktop\the real exam\SpaceStationEstablishment\bin\Debug\netcoreapp2.2\SpaceStationEstablishment.runtimeconfig.dev.json
+C:\Users\mm1-ignis\Desktop\the real exam\SpaceStationEstablishment\bin\Debug\netcoreapp2.2\SpaceStationEstablishment.dll
+C:\Users\mm1-ignis\Desktop\the real exam\SpaceStationEstablishment\bin\Debug\netcoreapp2.2\SpaceStationEstablishment.pdb
+C:\Users\mm1-ignis\Desktop\the real exam\SpaceStationEstablishment\obj\Debug\netcoreapp2.2\SpaceStationEstablishment.csprojAssemblyReference.cache
+C:\Users\mm1-ignis\Desktop\the real exam\SpaceStationEstablishment\obj\Debug\netcoreapp2.2\SpaceStationEstablishment.csproj.CoreCompileInputs.cache
+C:\Users\mm1-ignis\Desktop\the real exam\SpaceStationEstablishment\obj\Debug\netcoreapp2.2\SpaceStationEstablishment.AssemblyInfoInputs.cache
+C:\Users\mm1-ignis\Desktop\the real exam\SpaceStationEstablishment\obj\Debug\netcoreapp2.2\SpaceStationEstablishment.AssemblyInfo.cs
+C:\Users\mm1-ignis\Desktop\the real exam\SpaceStationEstablishment\obj\Debug\netcoreapp2.2\SpaceStationEstablishment.dll
+C:\Users\mm1-ignis\Desktop\the real exam\SpaceStationEstablishment\obj\Debug\netcoreapp2.2\SpaceStationEstablishment.pdb

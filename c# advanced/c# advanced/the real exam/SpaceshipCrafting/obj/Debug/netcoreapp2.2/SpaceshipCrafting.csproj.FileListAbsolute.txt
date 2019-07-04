@@ -1,0 +1,11 @@
+C:\Users\mm1-ignis\Desktop\the real exam\SpaceshipCrafting\bin\Debug\netcoreapp2.2\SpaceshipCrafting.deps.json
+C:\Users\mm1-ignis\Desktop\the real exam\SpaceshipCrafting\bin\Debug\netcoreapp2.2\SpaceshipCrafting.runtimeconfig.json
+C:\Users\mm1-ignis\Desktop\the real exam\SpaceshipCrafting\bin\Debug\netcoreapp2.2\SpaceshipCrafting.runtimeconfig.dev.json
+C:\Users\mm1-ignis\Desktop\the real exam\SpaceshipCrafting\bin\Debug\netcoreapp2.2\SpaceshipCrafting.dll
+C:\Users\mm1-ignis\Desktop\the real exam\SpaceshipCrafting\bin\Debug\netcoreapp2.2\SpaceshipCrafting.pdb
+C:\Users\mm1-ignis\Desktop\the real exam\SpaceshipCrafting\obj\Debug\netcoreapp2.2\SpaceshipCrafting.csprojAssemblyReference.cache
+C:\Users\mm1-ignis\Desktop\the real exam\SpaceshipCrafting\obj\Debug\netcoreapp2.2\SpaceshipCrafting.csproj.CoreCompileInputs.cache
+C:\Users\mm1-ignis\Desktop\the real exam\SpaceshipCrafting\obj\Debug\netcoreapp2.2\SpaceshipCrafting.AssemblyInfoInputs.cache
+C:\Users\mm1-ignis\Desktop\the real exam\SpaceshipCrafting\obj\Debug\netcoreapp2.2\SpaceshipCrafting.AssemblyInfo.cs
+C:\Users\mm1-ignis\Desktop\the real exam\SpaceshipCrafting\obj\Debug\netcoreapp2.2\SpaceshipCrafting.dll
+C:\Users\mm1-ignis\Desktop\the real exam\SpaceshipCrafting\obj\Debug\netcoreapp2.2\SpaceshipCrafting.pdb
