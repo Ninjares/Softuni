@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mm1-ignis\\Desktop\\Softuni rep\\c# advanced\\c# advanced\\SingleLinkedList\\SingleLinkedList.csproj": {}
+    "C:\\Users\\mm1-ignis\\Desktop\\Softuni rep\\c# advanced\\SingleLinkedList\\SingleLinkedList.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mm1-ignis\\Desktop\\Softuni rep\\c# advanced\\c# advanced\\SingleLinkedList\\SingleLinkedList.csproj": {
+    "C:\\Users\\mm1-ignis\\Desktop\\Softuni rep\\c# advanced\\SingleLinkedList\\SingleLinkedList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mm1-ignis\\Desktop\\Softuni rep\\c# advanced\\c# advanced\\SingleLinkedList\\SingleLinkedList.csproj",
+        "projectUniqueName": "C:\\Users\\mm1-ignis\\Desktop\\Softuni rep\\c# advanced\\SingleLinkedList\\SingleLinkedList.csproj",
         "projectName": "SingleLinkedList",
-        "projectPath": "C:\\Users\\mm1-ignis\\Desktop\\Softuni rep\\c# advanced\\c# advanced\\SingleLinkedList\\SingleLinkedList.csproj",
+        "projectPath": "C:\\Users\\mm1-ignis\\Desktop\\Softuni rep\\c# advanced\\SingleLinkedList\\SingleLinkedList.csproj",
         "packagesPath": "C:\\Users\\mm1-ignis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mm1-ignis\\Desktop\\Softuni rep\\c# advanced\\c# advanced\\SingleLinkedList\\obj\\",
+        "outputPath": "C:\\Users\\mm1-ignis\\Desktop\\Softuni rep\\c# advanced\\SingleLinkedList\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

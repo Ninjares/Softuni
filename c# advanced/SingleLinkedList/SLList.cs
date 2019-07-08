@@ -7,8 +7,6 @@ namespace SingleLinkedList
     class SLList<T>
     {
         //add empty list protection
-        //add private comparison function
-        //add contains and remove item
         //add foreach cycler
         //advanced: sorting function
         class ListNode
@@ -46,6 +44,11 @@ namespace SingleLinkedList
             head = null;
         }
 
+        public SLList(params T[] items):this()
+        {
+            foreach (T item in items) Add(item);
+        }
+
         public void Add(T item)
         {
             ListNode newnode = new ListNode(item);
@@ -53,10 +56,10 @@ namespace SingleLinkedList
             head = newnode;
         }
 
-        //public bool Contains(T item)
-        //{
-        //    return ContainsCycler(item, head);
-        //}
+        public bool Contains(T item)
+        {
+            return ContainsCycler(item, head);
+        }
         public void Insert(T item, int at)
         {
             if (at == Count) Add(item);
@@ -68,17 +71,30 @@ namespace SingleLinkedList
             if (at == Count - 1) head = head.previousNode;
             else RemoveAtCycler(head, Count - at -1);
         }
+        public void Remove(T item)
+        {
+            if (Contains(item))
+            {
+                for(int i=0; i<Count; i++) if(AreEqual(item, this[i])) { RemoveAt(i); break; }
+            }
+        }
         
 
 
         #region private
 
-        //private bool ContainsCycler(T item, ListNode currentnode)
-        //{
-        //    if (currentnode == null) return false;
-        //    else if (currentnode.item == item) return true;
-        //    else return ContainsCycler(item, currentnode.previousNode);
-        //}
+        private bool ContainsCycler(T item, ListNode currentnode)
+        {
+            if (currentnode == null) return false;
+            else if (AreEqual(item, currentnode.item)) return true;
+            else return ContainsCycler(item, currentnode.previousNode);
+        }
+
+        private bool AreEqual(T item1, T item2)
+        {
+            return EqualityComparer<T>.Default.Equals(item1, item2);
+        }
+
 
         private void InsertCycler(T item, ListNode currentnode, int at)
         {
