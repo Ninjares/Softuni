@@ -1,0 +1,11 @@
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\Interfaces excercise\Explicit interfaces\Explicit interfaces\bin\Debug\netcoreapp2.2\Explicit interfaces.deps.json
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\Interfaces excercise\Explicit interfaces\Explicit interfaces\bin\Debug\netcoreapp2.2\Explicit interfaces.runtimeconfig.json
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\Interfaces excercise\Explicit interfaces\Explicit interfaces\bin\Debug\netcoreapp2.2\Explicit interfaces.runtimeconfig.dev.json
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\Interfaces excercise\Explicit interfaces\Explicit interfaces\bin\Debug\netcoreapp2.2\Explicit interfaces.dll
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\Interfaces excercise\Explicit interfaces\Explicit interfaces\bin\Debug\netcoreapp2.2\Explicit interfaces.pdb
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\Interfaces excercise\Explicit interfaces\Explicit interfaces\obj\Debug\netcoreapp2.2\Explicit interfaces.csprojAssemblyReference.cache
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\Interfaces excercise\Explicit interfaces\Explicit interfaces\obj\Debug\netcoreapp2.2\Explicit interfaces.csproj.CoreCompileInputs.cache
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\Interfaces excercise\Explicit interfaces\Explicit interfaces\obj\Debug\netcoreapp2.2\Explicit interfaces.AssemblyInfoInputs.cache
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\Interfaces excercise\Explicit interfaces\Explicit interfaces\obj\Debug\netcoreapp2.2\Explicit interfaces.AssemblyInfo.cs
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\Interfaces excercise\Explicit interfaces\Explicit interfaces\obj\Debug\netcoreapp2.2\Explicit interfaces.dll
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\Interfaces excercise\Explicit interfaces\Explicit interfaces\obj\Debug\netcoreapp2.2\Explicit interfaces.pdb

@@ -1,0 +1,11 @@
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\Interfaces excercise\PersonInfo\bin\Debug\netcoreapp2.1\PersonInfo.deps.json
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\Interfaces excercise\PersonInfo\bin\Debug\netcoreapp2.1\PersonInfo.runtimeconfig.json
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\Interfaces excercise\PersonInfo\bin\Debug\netcoreapp2.1\PersonInfo.runtimeconfig.dev.json
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\Interfaces excercise\PersonInfo\bin\Debug\netcoreapp2.1\PersonInfo.dll
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\Interfaces excercise\PersonInfo\bin\Debug\netcoreapp2.1\PersonInfo.pdb
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\Interfaces excercise\PersonInfo\obj\Debug\netcoreapp2.1\PersonInfo.csprojAssemblyReference.cache
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\Interfaces excercise\PersonInfo\obj\Debug\netcoreapp2.1\PersonInfo.csproj.CoreCompileInputs.cache
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\Interfaces excercise\PersonInfo\obj\Debug\netcoreapp2.1\PersonInfo.AssemblyInfoInputs.cache
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\Interfaces excercise\PersonInfo\obj\Debug\netcoreapp2.1\PersonInfo.AssemblyInfo.cs
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\Interfaces excercise\PersonInfo\obj\Debug\netcoreapp2.1\PersonInfo.dll
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\Interfaces excercise\PersonInfo\obj\Debug\netcoreapp2.1\PersonInfo.pdb

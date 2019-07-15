@@ -1,0 +1,11 @@
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\Interfaces excercise\Ferrari\bin\Debug\netcoreapp2.2\Ferrari.deps.json
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\Interfaces excercise\Ferrari\bin\Debug\netcoreapp2.2\Ferrari.runtimeconfig.json
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\Interfaces excercise\Ferrari\bin\Debug\netcoreapp2.2\Ferrari.runtimeconfig.dev.json
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\Interfaces excercise\Ferrari\bin\Debug\netcoreapp2.2\Ferrari.dll
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\Interfaces excercise\Ferrari\bin\Debug\netcoreapp2.2\Ferrari.pdb
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\Interfaces excercise\Ferrari\obj\Debug\netcoreapp2.2\Ferrari.csprojAssemblyReference.cache
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\Interfaces excercise\Ferrari\obj\Debug\netcoreapp2.2\Ferrari.csproj.CoreCompileInputs.cache
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\Interfaces excercise\Ferrari\obj\Debug\netcoreapp2.2\Ferrari.AssemblyInfoInputs.cache
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\Interfaces excercise\Ferrari\obj\Debug\netcoreapp2.2\Ferrari.AssemblyInfo.cs
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\Interfaces excercise\Ferrari\obj\Debug\netcoreapp2.2\Ferrari.dll
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\Interfaces excercise\Ferrari\obj\Debug\netcoreapp2.2\Ferrari.pdb

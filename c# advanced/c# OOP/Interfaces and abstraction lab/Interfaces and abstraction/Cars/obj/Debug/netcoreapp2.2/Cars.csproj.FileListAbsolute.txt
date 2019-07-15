@@ -1,0 +1,11 @@
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\Interfaces and abstraction lab\Interfaces and abstraction\Cars\bin\Debug\netcoreapp2.2\Cars.deps.json
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\Interfaces and abstraction lab\Interfaces and abstraction\Cars\bin\Debug\netcoreapp2.2\Cars.runtimeconfig.json
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\Interfaces and abstraction lab\Interfaces and abstraction\Cars\bin\Debug\netcoreapp2.2\Cars.runtimeconfig.dev.json
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\Interfaces and abstraction lab\Interfaces and abstraction\Cars\bin\Debug\netcoreapp2.2\Cars.dll
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\Interfaces and abstraction lab\Interfaces and abstraction\Cars\bin\Debug\netcoreapp2.2\Cars.pdb
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\Interfaces and abstraction lab\Interfaces and abstraction\Cars\obj\Debug\netcoreapp2.2\Cars.csprojAssemblyReference.cache
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\Interfaces and abstraction lab\Interfaces and abstraction\Cars\obj\Debug\netcoreapp2.2\Cars.csproj.CoreCompileInputs.cache
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\Interfaces and abstraction lab\Interfaces and abstraction\Cars\obj\Debug\netcoreapp2.2\Cars.AssemblyInfoInputs.cache
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\Interfaces and abstraction lab\Interfaces and abstraction\Cars\obj\Debug\netcoreapp2.2\Cars.AssemblyInfo.cs
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\Interfaces and abstraction lab\Interfaces and abstraction\Cars\obj\Debug\netcoreapp2.2\Cars.dll
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\Interfaces and abstraction lab\Interfaces and abstraction\Cars\obj\Debug\netcoreapp2.2\Cars.pdb
