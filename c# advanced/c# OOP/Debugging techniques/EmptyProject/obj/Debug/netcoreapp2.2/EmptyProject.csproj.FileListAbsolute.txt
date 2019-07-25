@@ -1,0 +1,11 @@
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\Debugging techniques\EmptyProject\bin\Debug\netcoreapp2.2\EmptyProject.deps.json
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\Debugging techniques\EmptyProject\bin\Debug\netcoreapp2.2\EmptyProject.runtimeconfig.json
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\Debugging techniques\EmptyProject\bin\Debug\netcoreapp2.2\EmptyProject.runtimeconfig.dev.json
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\Debugging techniques\EmptyProject\bin\Debug\netcoreapp2.2\EmptyProject.dll
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\Debugging techniques\EmptyProject\bin\Debug\netcoreapp2.2\EmptyProject.pdb
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\Debugging techniques\EmptyProject\obj\Debug\netcoreapp2.2\EmptyProject.csprojAssemblyReference.cache
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\Debugging techniques\EmptyProject\obj\Debug\netcoreapp2.2\EmptyProject.csproj.CoreCompileInputs.cache
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\Debugging techniques\EmptyProject\obj\Debug\netcoreapp2.2\EmptyProject.AssemblyInfoInputs.cache
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\Debugging techniques\EmptyProject\obj\Debug\netcoreapp2.2\EmptyProject.AssemblyInfo.cs
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\Debugging techniques\EmptyProject\obj\Debug\netcoreapp2.2\EmptyProject.dll
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\Debugging techniques\EmptyProject\obj\Debug\netcoreapp2.2\EmptyProject.pdb

@@ -1,0 +1,10 @@
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\SOLID\06. CSharp-OOP-SOLID-Demo-Resources\Jungle\bin\Debug\netcoreapp2.2\Jungle.deps.json
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\SOLID\06. CSharp-OOP-SOLID-Demo-Resources\Jungle\bin\Debug\netcoreapp2.2\Jungle.runtimeconfig.json
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\SOLID\06. CSharp-OOP-SOLID-Demo-Resources\Jungle\bin\Debug\netcoreapp2.2\Jungle.runtimeconfig.dev.json
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\SOLID\06. CSharp-OOP-SOLID-Demo-Resources\Jungle\bin\Debug\netcoreapp2.2\Jungle.dll
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\SOLID\06. CSharp-OOP-SOLID-Demo-Resources\Jungle\bin\Debug\netcoreapp2.2\Jungle.pdb
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\SOLID\06. CSharp-OOP-SOLID-Demo-Resources\Jungle\obj\Debug\netcoreapp2.2\Jungle.csproj.CoreCompileInputs.cache
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\SOLID\06. CSharp-OOP-SOLID-Demo-Resources\Jungle\obj\Debug\netcoreapp2.2\Jungle.AssemblyInfoInputs.cache
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\SOLID\06. CSharp-OOP-SOLID-Demo-Resources\Jungle\obj\Debug\netcoreapp2.2\Jungle.AssemblyInfo.cs
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\SOLID\06. CSharp-OOP-SOLID-Demo-Resources\Jungle\obj\Debug\netcoreapp2.2\Jungle.dll
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\SOLID\06. CSharp-OOP-SOLID-Demo-Resources\Jungle\obj\Debug\netcoreapp2.2\Jungle.pdb
