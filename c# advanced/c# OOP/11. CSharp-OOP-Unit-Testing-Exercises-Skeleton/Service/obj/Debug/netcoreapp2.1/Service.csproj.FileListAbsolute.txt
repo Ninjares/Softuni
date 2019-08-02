@@ -1,0 +1,8 @@
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\Service\bin\Debug\netcoreapp2.1\Service.deps.json
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\Service\bin\Debug\netcoreapp2.1\Service.dll
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\Service\bin\Debug\netcoreapp2.1\Service.pdb
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\Service\obj\Debug\netcoreapp2.1\Service.csproj.CoreCompileInputs.cache
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\Service\obj\Debug\netcoreapp2.1\Service.AssemblyInfoInputs.cache
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\Service\obj\Debug\netcoreapp2.1\Service.AssemblyInfo.cs
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\Service\obj\Debug\netcoreapp2.1\Service.dll
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\Service\obj\Debug\netcoreapp2.1\Service.pdb

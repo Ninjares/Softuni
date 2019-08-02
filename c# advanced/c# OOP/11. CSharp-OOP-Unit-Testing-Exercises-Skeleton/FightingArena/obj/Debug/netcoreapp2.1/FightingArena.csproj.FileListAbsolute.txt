@@ -1,0 +1,8 @@
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\FightingArena\bin\Debug\netcoreapp2.1\FightingArena.deps.json
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\FightingArena\bin\Debug\netcoreapp2.1\FightingArena.dll
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\FightingArena\bin\Debug\netcoreapp2.1\FightingArena.pdb
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\FightingArena\obj\Debug\netcoreapp2.1\FightingArena.csproj.CoreCompileInputs.cache
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\FightingArena\obj\Debug\netcoreapp2.1\FightingArena.AssemblyInfoInputs.cache
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\FightingArena\obj\Debug\netcoreapp2.1\FightingArena.AssemblyInfo.cs
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\FightingArena\obj\Debug\netcoreapp2.1\FightingArena.dll
+C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\FightingArena\obj\Debug\netcoreapp2.1\FightingArena.pdb
