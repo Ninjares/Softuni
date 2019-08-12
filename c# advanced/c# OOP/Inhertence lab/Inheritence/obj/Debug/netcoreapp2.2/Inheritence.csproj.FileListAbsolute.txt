@@ -1,0 +1,11 @@
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# OOP\Inheritence\bin\Debug\netcoreapp2.2\Inheritence.deps.json
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# OOP\Inheritence\bin\Debug\netcoreapp2.2\Inheritence.runtimeconfig.json
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# OOP\Inheritence\bin\Debug\netcoreapp2.2\Inheritence.runtimeconfig.dev.json
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# OOP\Inheritence\bin\Debug\netcoreapp2.2\Inheritence.dll
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# OOP\Inheritence\bin\Debug\netcoreapp2.2\Inheritence.pdb
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# OOP\Inheritence\obj\Debug\netcoreapp2.2\Inheritence.csprojAssemblyReference.cache
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# OOP\Inheritence\obj\Debug\netcoreapp2.2\Inheritence.csproj.CoreCompileInputs.cache
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# OOP\Inheritence\obj\Debug\netcoreapp2.2\Inheritence.AssemblyInfoInputs.cache
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# OOP\Inheritence\obj\Debug\netcoreapp2.2\Inheritence.AssemblyInfo.cs
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# OOP\Inheritence\obj\Debug\netcoreapp2.2\Inheritence.dll
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# OOP\Inheritence\obj\Debug\netcoreapp2.2\Inheritence.pdb

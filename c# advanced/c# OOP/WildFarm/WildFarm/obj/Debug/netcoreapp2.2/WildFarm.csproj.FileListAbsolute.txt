@@ -1,0 +1,22 @@
+C:\Users\mm1-ignis\source\repos\WildFarm\WildFarm\bin\Debug\netcoreapp2.2\WildFarm.deps.json
+C:\Users\mm1-ignis\source\repos\WildFarm\WildFarm\bin\Debug\netcoreapp2.2\WildFarm.runtimeconfig.json
+C:\Users\mm1-ignis\source\repos\WildFarm\WildFarm\bin\Debug\netcoreapp2.2\WildFarm.runtimeconfig.dev.json
+C:\Users\mm1-ignis\source\repos\WildFarm\WildFarm\bin\Debug\netcoreapp2.2\WildFarm.dll
+C:\Users\mm1-ignis\source\repos\WildFarm\WildFarm\bin\Debug\netcoreapp2.2\WildFarm.pdb
+C:\Users\mm1-ignis\source\repos\WildFarm\WildFarm\obj\Debug\netcoreapp2.2\WildFarm.csprojAssemblyReference.cache
+C:\Users\mm1-ignis\source\repos\WildFarm\WildFarm\obj\Debug\netcoreapp2.2\WildFarm.csproj.CoreCompileInputs.cache
+C:\Users\mm1-ignis\source\repos\WildFarm\WildFarm\obj\Debug\netcoreapp2.2\WildFarm.AssemblyInfoInputs.cache
+C:\Users\mm1-ignis\source\repos\WildFarm\WildFarm\obj\Debug\netcoreapp2.2\WildFarm.AssemblyInfo.cs
+C:\Users\mm1-ignis\source\repos\WildFarm\WildFarm\obj\Debug\netcoreapp2.2\WildFarm.dll
+C:\Users\mm1-ignis\source\repos\WildFarm\WildFarm\obj\Debug\netcoreapp2.2\WildFarm.pdb
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# OOP\WildFarm\WildFarm\bin\Debug\netcoreapp2.2\WildFarm.deps.json
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# OOP\WildFarm\WildFarm\bin\Debug\netcoreapp2.2\WildFarm.runtimeconfig.json
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# OOP\WildFarm\WildFarm\bin\Debug\netcoreapp2.2\WildFarm.runtimeconfig.dev.json
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# OOP\WildFarm\WildFarm\bin\Debug\netcoreapp2.2\WildFarm.dll
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# OOP\WildFarm\WildFarm\bin\Debug\netcoreapp2.2\WildFarm.pdb
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# OOP\WildFarm\WildFarm\obj\Debug\netcoreapp2.2\WildFarm.csprojAssemblyReference.cache
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# OOP\WildFarm\WildFarm\obj\Debug\netcoreapp2.2\WildFarm.csproj.CoreCompileInputs.cache
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# OOP\WildFarm\WildFarm\obj\Debug\netcoreapp2.2\WildFarm.AssemblyInfoInputs.cache
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# OOP\WildFarm\WildFarm\obj\Debug\netcoreapp2.2\WildFarm.AssemblyInfo.cs
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# OOP\WildFarm\WildFarm\obj\Debug\netcoreapp2.2\WildFarm.dll
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# OOP\WildFarm\WildFarm\obj\Debug\netcoreapp2.2\WildFarm.pdb

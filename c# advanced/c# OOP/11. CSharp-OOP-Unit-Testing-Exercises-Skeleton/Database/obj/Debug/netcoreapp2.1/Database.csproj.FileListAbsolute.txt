@@ -7,3 +7,12 @@ C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\11. CSharp-OOP-Unit-Te
 C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\Database\obj\Debug\netcoreapp2.1\Database.AssemblyInfo.cs
 C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\Database\obj\Debug\netcoreapp2.1\Database.dll
 C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# OOP\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\Database\obj\Debug\netcoreapp2.1\Database.pdb
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# OOP\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\Database\bin\Debug\netcoreapp2.1\Database.deps.json
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# OOP\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\Database\bin\Debug\netcoreapp2.1\Database.dll
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# OOP\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\Database\bin\Debug\netcoreapp2.1\Database.pdb
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# OOP\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\Database\obj\Debug\netcoreapp2.1\Database.csprojAssemblyReference.cache
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# OOP\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\Database\obj\Debug\netcoreapp2.1\Database.csproj.CoreCompileInputs.cache
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# OOP\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\Database\obj\Debug\netcoreapp2.1\Database.AssemblyInfoInputs.cache
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# OOP\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\Database\obj\Debug\netcoreapp2.1\Database.AssemblyInfo.cs
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# OOP\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\Database\obj\Debug\netcoreapp2.1\Database.dll
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# OOP\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\Database\obj\Debug\netcoreapp2.1\Database.pdb

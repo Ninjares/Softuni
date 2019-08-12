@@ -1,0 +1,11 @@
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# OOP\Enumerators\obj\Debug\netcoreapp2.2\Enumerators.csproj.CoreCompileInputs.cache
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# OOP\Enumerators\obj\Debug\netcoreapp2.2\Enumerators.AssemblyInfoInputs.cache
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# OOP\Enumerators\obj\Debug\netcoreapp2.2\Enumerators.AssemblyInfo.cs
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# OOP\Enumerators\bin\Debug\netcoreapp2.2\Enumerators.deps.json
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# OOP\Enumerators\bin\Debug\netcoreapp2.2\Enumerators.runtimeconfig.json
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# OOP\Enumerators\bin\Debug\netcoreapp2.2\Enumerators.runtimeconfig.dev.json
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# OOP\Enumerators\bin\Debug\netcoreapp2.2\Enumerators.dll
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# OOP\Enumerators\bin\Debug\netcoreapp2.2\Enumerators.pdb
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# OOP\Enumerators\obj\Debug\netcoreapp2.2\Enumerators.dll
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# OOP\Enumerators\obj\Debug\netcoreapp2.2\Enumerators.pdb
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# OOP\Enumerators\obj\Debug\netcoreapp2.2\Enumerators.csprojAssemblyReference.cache

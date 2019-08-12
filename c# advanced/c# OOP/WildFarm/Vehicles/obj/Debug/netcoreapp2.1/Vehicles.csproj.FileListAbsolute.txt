@@ -1,0 +1,11 @@
+C:\Users\mm1-ignis\source\repos\WildFarm\Vehicles\bin\Debug\netcoreapp2.1\Vehicles.deps.json
+C:\Users\mm1-ignis\source\repos\WildFarm\Vehicles\bin\Debug\netcoreapp2.1\Vehicles.runtimeconfig.json
+C:\Users\mm1-ignis\source\repos\WildFarm\Vehicles\bin\Debug\netcoreapp2.1\Vehicles.runtimeconfig.dev.json
+C:\Users\mm1-ignis\source\repos\WildFarm\Vehicles\bin\Debug\netcoreapp2.1\Vehicles.dll
+C:\Users\mm1-ignis\source\repos\WildFarm\Vehicles\bin\Debug\netcoreapp2.1\Vehicles.pdb
+C:\Users\mm1-ignis\source\repos\WildFarm\Vehicles\obj\Debug\netcoreapp2.1\Vehicles.csprojAssemblyReference.cache
+C:\Users\mm1-ignis\source\repos\WildFarm\Vehicles\obj\Debug\netcoreapp2.1\Vehicles.csproj.CoreCompileInputs.cache
+C:\Users\mm1-ignis\source\repos\WildFarm\Vehicles\obj\Debug\netcoreapp2.1\Vehicles.AssemblyInfoInputs.cache
+C:\Users\mm1-ignis\source\repos\WildFarm\Vehicles\obj\Debug\netcoreapp2.1\Vehicles.AssemblyInfo.cs
+C:\Users\mm1-ignis\source\repos\WildFarm\Vehicles\obj\Debug\netcoreapp2.1\Vehicles.dll
+C:\Users\mm1-ignis\source\repos\WildFarm\Vehicles\obj\Debug\netcoreapp2.1\Vehicles.pdb

@@ -1,0 +1,11 @@
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# OOP\RhombusOfStars\bin\Debug\netcoreapp2.2\RhombusOfStars.deps.json
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# OOP\RhombusOfStars\bin\Debug\netcoreapp2.2\RhombusOfStars.runtimeconfig.json
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# OOP\RhombusOfStars\bin\Debug\netcoreapp2.2\RhombusOfStars.runtimeconfig.dev.json
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# OOP\RhombusOfStars\bin\Debug\netcoreapp2.2\RhombusOfStars.dll
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# OOP\RhombusOfStars\bin\Debug\netcoreapp2.2\RhombusOfStars.pdb
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# OOP\RhombusOfStars\obj\Debug\netcoreapp2.2\RhombusOfStars.csprojAssemblyReference.cache
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# OOP\RhombusOfStars\obj\Debug\netcoreapp2.2\RhombusOfStars.csproj.CoreCompileInputs.cache
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# OOP\RhombusOfStars\obj\Debug\netcoreapp2.2\RhombusOfStars.AssemblyInfoInputs.cache
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# OOP\RhombusOfStars\obj\Debug\netcoreapp2.2\RhombusOfStars.AssemblyInfo.cs
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# OOP\RhombusOfStars\obj\Debug\netcoreapp2.2\RhombusOfStars.dll
+C:\Users\mk2-bawk\Desktop\Softuni rep\c# OOP\RhombusOfStars\obj\Debug\netcoreapp2.2\RhombusOfStars.pdb

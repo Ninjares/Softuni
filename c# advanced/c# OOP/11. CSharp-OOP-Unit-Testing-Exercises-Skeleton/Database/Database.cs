@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Database
+namespace Databas
 {
     public class Database
     {

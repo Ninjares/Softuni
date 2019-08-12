@@ -1640,6 +1640,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
+      },
+      "CarManager/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "compile": {
+          "bin/placeholder/CarManager.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CarManager.dll": {}
+        }
       }
     }
   },
@@ -5753,10 +5763,16 @@
         "system.xml.xpath.xmldocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
+    },
+    "CarManager/1.0.0": {
+      "type": "project",
+      "path": "../CarManager/CarManager.csproj",
+      "msbuildProject": "../CarManager/CarManager.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
+      "CarManager >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 15.9.0",
       "Microsoft.NETCore.App >= 2.1.0",
       "NUnit3TestAdapter >= 3.9.0",
@@ -5764,25 +5780,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\mm1-ignis\\.nuget\\packages\\": {},
+    "C:\\Users\\mk2-bawk\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mm1-ignis\\Desktop\\Softuni rep\\c# advanced\\c# OOP\\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\\CarManager.Tests\\CarManager.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\mk2-bawk\\Desktop\\Softuni rep\\c# advanced\\c# OOP\\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\\CarManager.Tests\\CarManager.Tests.csproj",
       "projectName": "CarManager.Tests",
-      "projectPath": "C:\\Users\\mm1-ignis\\Desktop\\Softuni rep\\c# advanced\\c# OOP\\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\\CarManager.Tests\\CarManager.Tests.csproj",
-      "packagesPath": "C:\\Users\\mm1-ignis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mm1-ignis\\Desktop\\Softuni rep\\c# advanced\\c# OOP\\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\\CarManager.Tests\\obj\\",
+      "projectPath": "C:\\Users\\mk2-bawk\\Desktop\\Softuni rep\\c# advanced\\c# OOP\\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\\CarManager.Tests\\CarManager.Tests.csproj",
+      "packagesPath": "C:\\Users\\mk2-bawk\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mk2-bawk\\Desktop\\Softuni rep\\c# advanced\\c# OOP\\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\\CarManager.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\mm1-ignis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mk2-bawk\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -5795,7 +5811,11 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\mk2-bawk\\Desktop\\Softuni rep\\c# advanced\\c# OOP\\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\\CarManager\\CarManager.csproj": {
+              "projectPath": "C:\\Users\\mk2-bawk\\Desktop\\Softuni rep\\c# advanced\\c# OOP\\11. CSharp-OOP-Unit-Testing-Exercises-Skeleton\\CarManager\\CarManager.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
