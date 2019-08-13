@@ -1,7 +1,0 @@
-C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# advanced\16.05 - excercises\easyonesprojectground\bin\Debug\easyonesprojectground.exe.config
-C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# advanced\16.05 - excercises\easyonesprojectground\bin\Debug\easyonesprojectground.exe
-C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# advanced\16.05 - excercises\easyonesprojectground\bin\Debug\easyonesprojectground.pdb
-C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# advanced\16.05 - excercises\easyonesprojectground\obj\Debug\easyonesprojectground.csprojAssemblyReference.cache
-C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# advanced\16.05 - excercises\easyonesprojectground\obj\Debug\easyonesprojectground.csproj.CoreCompileInputs.cache
-C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# advanced\16.05 - excercises\easyonesprojectground\obj\Debug\easyonesprojectground.exe
-C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# advanced\16.05 - excercises\easyonesprojectground\obj\Debug\easyonesprojectground.pdb

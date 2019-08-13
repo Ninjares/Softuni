@@ -1,7 +1,0 @@
-C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# advanced\20.05 - matrices excercises\snek moves\bin\Debug\snek moves.exe.config
-C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# advanced\20.05 - matrices excercises\snek moves\bin\Debug\snek moves.exe
-C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# advanced\20.05 - matrices excercises\snek moves\bin\Debug\snek moves.pdb
-C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# advanced\20.05 - matrices excercises\snek moves\obj\Debug\snek moves.csprojAssemblyReference.cache
-C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# advanced\20.05 - matrices excercises\snek moves\obj\Debug\snek moves.csproj.CoreCompileInputs.cache
-C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# advanced\20.05 - matrices excercises\snek moves\obj\Debug\snek moves.exe
-C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# advanced\20.05 - matrices excercises\snek moves\obj\Debug\snek moves.pdb

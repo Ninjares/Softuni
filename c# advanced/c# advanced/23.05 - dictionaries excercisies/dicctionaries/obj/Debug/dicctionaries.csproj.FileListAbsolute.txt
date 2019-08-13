@@ -1,7 +1,0 @@
-C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\23.05 - dictionaries excercisies\dicctionaries\bin\Debug\dicctionaries.exe.config
-C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\23.05 - dictionaries excercisies\dicctionaries\bin\Debug\dicctionaries.exe
-C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\23.05 - dictionaries excercisies\dicctionaries\bin\Debug\dicctionaries.pdb
-C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\23.05 - dictionaries excercisies\dicctionaries\obj\Debug\dicctionaries.csprojAssemblyReference.cache
-C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\23.05 - dictionaries excercisies\dicctionaries\obj\Debug\dicctionaries.csproj.CoreCompileInputs.cache
-C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\23.05 - dictionaries excercisies\dicctionaries\obj\Debug\dicctionaries.exe
-C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\23.05 - dictionaries excercisies\dicctionaries\obj\Debug\dicctionaries.pdb

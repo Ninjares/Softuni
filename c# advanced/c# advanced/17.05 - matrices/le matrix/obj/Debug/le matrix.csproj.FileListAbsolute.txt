@@ -1,7 +1,0 @@
-C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\17.05 - matrices\le matrix\obj\Debug\le matrix.csprojAssemblyReference.cache
-C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\17.05 - matrices\le matrix\obj\Debug\le matrix.csproj.CoreCompileInputs.cache
-C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\17.05 - matrices\le matrix\bin\Debug\le matrix.exe.config
-C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\17.05 - matrices\le matrix\bin\Debug\le matrix.exe
-C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\17.05 - matrices\le matrix\bin\Debug\le matrix.pdb
-C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\17.05 - matrices\le matrix\obj\Debug\le matrix.exe
-C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\17.05 - matrices\le matrix\obj\Debug\le matrix.pdb

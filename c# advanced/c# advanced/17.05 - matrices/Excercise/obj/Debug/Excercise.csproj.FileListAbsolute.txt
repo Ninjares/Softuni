@@ -1,7 +1,0 @@
-C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\17.05 - matrices\Excercise\bin\Debug\Excercise.exe.config
-C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\17.05 - matrices\Excercise\bin\Debug\Excercise.exe
-C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\17.05 - matrices\Excercise\bin\Debug\Excercise.pdb
-C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\17.05 - matrices\Excercise\obj\Debug\Excercise.csprojAssemblyReference.cache
-C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\17.05 - matrices\Excercise\obj\Debug\Excercise.csproj.CoreCompileInputs.cache
-C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\17.05 - matrices\Excercise\obj\Debug\Excercise.exe
-C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\17.05 - matrices\Excercise\obj\Debug\Excercise.pdb

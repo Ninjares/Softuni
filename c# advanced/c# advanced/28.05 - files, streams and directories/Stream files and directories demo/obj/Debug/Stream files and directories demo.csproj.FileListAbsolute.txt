@@ -1,8 +1,0 @@
-C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\28.05 - files, streams and directories\Stream files and directories demo\bin\Debug\Stream files and directories demo.exe.config
-C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\28.05 - files, streams and directories\Stream files and directories demo\bin\Debug\Stream files and directories demo.exe
-C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\28.05 - files, streams and directories\Stream files and directories demo\bin\Debug\Stream files and directories demo.pdb
-C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\28.05 - files, streams and directories\Stream files and directories demo\obj\Debug\Stream files and directories demo.csprojAssemblyReference.cache
-C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\28.05 - files, streams and directories\Stream files and directories demo\obj\Debug\Stream files and directories demo.csproj.CoreCompileInputs.cache
-C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\28.05 - files, streams and directories\Stream files and directories demo\obj\Debug\Stream files and directories demo.exe
-C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\28.05 - files, streams and directories\Stream files and directories demo\obj\Debug\Stream files and directories demo.pdb
-C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\28.05 - files, streams and directories\Stream files and directories demo\bin\Debug\text\yeet.txt

@@ -1,7 +1,0 @@
-C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\16.05 - excercises\8 balanced parenthases\bin\Debug\8 balanced parenthases.exe.config
-C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\16.05 - excercises\8 balanced parenthases\bin\Debug\8 balanced parenthases.exe
-C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\16.05 - excercises\8 balanced parenthases\bin\Debug\8 balanced parenthases.pdb
-C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\16.05 - excercises\8 balanced parenthases\obj\Debug\8 balanced parenthases.csprojAssemblyReference.cache
-C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\16.05 - excercises\8 balanced parenthases\obj\Debug\8 balanced parenthases.csproj.CoreCompileInputs.cache
-C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\16.05 - excercises\8 balanced parenthases\obj\Debug\8 balanced parenthases.exe
-C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\16.05 - excercises\8 balanced parenthases\obj\Debug\8 balanced parenthases.pdb

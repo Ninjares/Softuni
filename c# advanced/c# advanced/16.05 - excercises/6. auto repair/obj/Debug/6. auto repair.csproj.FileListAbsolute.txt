@@ -1,7 +1,0 @@
-C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\16.05 - excercises\6. auto repair\bin\Debug\_6.auto_repair.exe.config
-C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\16.05 - excercises\6. auto repair\bin\Debug\_6.auto_repair.exe
-C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\16.05 - excercises\6. auto repair\bin\Debug\_6.auto_repair.pdb
-C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\16.05 - excercises\6. auto repair\obj\Debug\6. auto repair.csprojAssemblyReference.cache
-C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\16.05 - excercises\6. auto repair\obj\Debug\6. auto repair.csproj.CoreCompileInputs.cache
-C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\16.05 - excercises\6. auto repair\obj\Debug\_6.auto_repair.exe
-C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\16.05 - excercises\6. auto repair\obj\Debug\_6.auto_repair.pdb

@@ -1,7 +1,0 @@
-C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# advanced\20.05 - matrices excercises\diag diff\bin\Debug\diag diff.exe.config
-C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# advanced\20.05 - matrices excercises\diag diff\bin\Debug\diag diff.exe
-C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# advanced\20.05 - matrices excercises\diag diff\bin\Debug\diag diff.pdb
-C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# advanced\20.05 - matrices excercises\diag diff\obj\Debug\diag diff.csprojAssemblyReference.cache
-C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# advanced\20.05 - matrices excercises\diag diff\obj\Debug\diag diff.csproj.CoreCompileInputs.cache
-C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# advanced\20.05 - matrices excercises\diag diff\obj\Debug\diag diff.exe
-C:\Users\mk2-bawk\Desktop\Softuni rep\c# advanced\c# advanced\20.05 - matrices excercises\diag diff\obj\Debug\diag diff.pdb

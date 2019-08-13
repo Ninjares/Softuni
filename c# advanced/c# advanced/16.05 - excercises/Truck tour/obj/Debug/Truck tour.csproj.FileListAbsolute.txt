@@ -1,7 +1,0 @@
-C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\16.05 - excercises\Truck tour\bin\Debug\Truck tour.exe.config
-C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\16.05 - excercises\Truck tour\bin\Debug\Truck tour.exe
-C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\16.05 - excercises\Truck tour\bin\Debug\Truck tour.pdb
-C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\16.05 - excercises\Truck tour\obj\Debug\Truck tour.csprojAssemblyReference.cache
-C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\16.05 - excercises\Truck tour\obj\Debug\Truck tour.csproj.CoreCompileInputs.cache
-C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\16.05 - excercises\Truck tour\obj\Debug\Truck tour.exe
-C:\Users\mm1-ignis\Desktop\Softuni rep\c# advanced\c# advanced\16.05 - excercises\Truck tour\obj\Debug\Truck tour.pdb
