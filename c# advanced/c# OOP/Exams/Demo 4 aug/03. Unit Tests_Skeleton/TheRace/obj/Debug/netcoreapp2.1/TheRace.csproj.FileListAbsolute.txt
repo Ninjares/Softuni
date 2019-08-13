@@ -1,0 +1,9 @@
+C:\Users\mm1-ignis\Desktop\Demo 4 aug\03. Unit Tests_Skeleton\TheRace\bin\Debug\netcoreapp2.1\TheRace.deps.json
+C:\Users\mm1-ignis\Desktop\Demo 4 aug\03. Unit Tests_Skeleton\TheRace\bin\Debug\netcoreapp2.1\TheRace.dll
+C:\Users\mm1-ignis\Desktop\Demo 4 aug\03. Unit Tests_Skeleton\TheRace\bin\Debug\netcoreapp2.1\TheRace.pdb
+C:\Users\mm1-ignis\Desktop\Demo 4 aug\03. Unit Tests_Skeleton\TheRace\obj\Debug\netcoreapp2.1\TheRace.csprojAssemblyReference.cache
+C:\Users\mm1-ignis\Desktop\Demo 4 aug\03. Unit Tests_Skeleton\TheRace\obj\Debug\netcoreapp2.1\TheRace.csproj.CoreCompileInputs.cache
+C:\Users\mm1-ignis\Desktop\Demo 4 aug\03. Unit Tests_Skeleton\TheRace\obj\Debug\netcoreapp2.1\TheRace.AssemblyInfoInputs.cache
+C:\Users\mm1-ignis\Desktop\Demo 4 aug\03. Unit Tests_Skeleton\TheRace\obj\Debug\netcoreapp2.1\TheRace.AssemblyInfo.cs
+C:\Users\mm1-ignis\Desktop\Demo 4 aug\03. Unit Tests_Skeleton\TheRace\obj\Debug\netcoreapp2.1\TheRace.dll
+C:\Users\mm1-ignis\Desktop\Demo 4 aug\03. Unit Tests_Skeleton\TheRace\obj\Debug\netcoreapp2.1\TheRace.pdb

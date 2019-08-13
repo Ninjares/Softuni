@@ -1,0 +1,17 @@
+C:\Users\Stoyan\source\repos\BlueOrigin\BlueOrigin.Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\Stoyan\source\repos\BlueOrigin\BlueOrigin.Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\Stoyan\source\repos\BlueOrigin\BlueOrigin.Tests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\Stoyan\source\repos\BlueOrigin\BlueOrigin.Tests\bin\Debug\netcoreapp2.2\BlueOrigin.Tests.deps.json
+C:\Users\Stoyan\source\repos\BlueOrigin\BlueOrigin.Tests\bin\Debug\netcoreapp2.2\BlueOrigin.Tests.runtimeconfig.json
+C:\Users\Stoyan\source\repos\BlueOrigin\BlueOrigin.Tests\bin\Debug\netcoreapp2.2\BlueOrigin.Tests.runtimeconfig.dev.json
+C:\Users\Stoyan\source\repos\BlueOrigin\BlueOrigin.Tests\bin\Debug\netcoreapp2.2\BlueOrigin.Tests.dll
+C:\Users\Stoyan\source\repos\BlueOrigin\BlueOrigin.Tests\bin\Debug\netcoreapp2.2\BlueOrigin.Tests.pdb
+C:\Users\Stoyan\source\repos\BlueOrigin\BlueOrigin.Tests\bin\Debug\netcoreapp2.2\BlueOrigin.dll
+C:\Users\Stoyan\source\repos\BlueOrigin\BlueOrigin.Tests\bin\Debug\netcoreapp2.2\BlueOrigin.pdb
+C:\Users\Stoyan\source\repos\BlueOrigin\BlueOrigin.Tests\obj\Debug\netcoreapp2.2\BlueOrigin.Tests.csprojAssemblyReference.cache
+C:\Users\Stoyan\source\repos\BlueOrigin\BlueOrigin.Tests\obj\Debug\netcoreapp2.2\BlueOrigin.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Stoyan\source\repos\BlueOrigin\BlueOrigin.Tests\obj\Debug\netcoreapp2.2\BlueOrigin.Tests.AssemblyInfoInputs.cache
+C:\Users\Stoyan\source\repos\BlueOrigin\BlueOrigin.Tests\obj\Debug\netcoreapp2.2\BlueOrigin.Tests.AssemblyInfo.cs
+C:\Users\Stoyan\source\repos\BlueOrigin\BlueOrigin.Tests\obj\Debug\netcoreapp2.2\BlueOrigin.Tests.csproj.CopyComplete
+C:\Users\Stoyan\source\repos\BlueOrigin\BlueOrigin.Tests\obj\Debug\netcoreapp2.2\BlueOrigin.Tests.dll
+C:\Users\Stoyan\source\repos\BlueOrigin\BlueOrigin.Tests\obj\Debug\netcoreapp2.2\BlueOrigin.Tests.pdb

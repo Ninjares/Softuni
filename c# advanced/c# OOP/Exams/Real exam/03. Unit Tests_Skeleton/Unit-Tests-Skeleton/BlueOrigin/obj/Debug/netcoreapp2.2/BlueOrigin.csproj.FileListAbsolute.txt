@@ -1,0 +1,11 @@
+C:\Users\Stoyan\source\repos\BlueOrigin\BlueOrigin\bin\Debug\netcoreapp2.2\BlueOrigin.deps.json
+C:\Users\Stoyan\source\repos\BlueOrigin\BlueOrigin\bin\Debug\netcoreapp2.2\BlueOrigin.runtimeconfig.json
+C:\Users\Stoyan\source\repos\BlueOrigin\BlueOrigin\bin\Debug\netcoreapp2.2\BlueOrigin.runtimeconfig.dev.json
+C:\Users\Stoyan\source\repos\BlueOrigin\BlueOrigin\bin\Debug\netcoreapp2.2\BlueOrigin.dll
+C:\Users\Stoyan\source\repos\BlueOrigin\BlueOrigin\bin\Debug\netcoreapp2.2\BlueOrigin.pdb
+C:\Users\Stoyan\source\repos\BlueOrigin\BlueOrigin\obj\Debug\netcoreapp2.2\BlueOrigin.csprojAssemblyReference.cache
+C:\Users\Stoyan\source\repos\BlueOrigin\BlueOrigin\obj\Debug\netcoreapp2.2\BlueOrigin.csproj.CoreCompileInputs.cache
+C:\Users\Stoyan\source\repos\BlueOrigin\BlueOrigin\obj\Debug\netcoreapp2.2\BlueOrigin.AssemblyInfoInputs.cache
+C:\Users\Stoyan\source\repos\BlueOrigin\BlueOrigin\obj\Debug\netcoreapp2.2\BlueOrigin.AssemblyInfo.cs
+C:\Users\Stoyan\source\repos\BlueOrigin\BlueOrigin\obj\Debug\netcoreapp2.2\BlueOrigin.dll
+C:\Users\Stoyan\source\repos\BlueOrigin\BlueOrigin\obj\Debug\netcoreapp2.2\BlueOrigin.pdb
