@@ -693,11 +693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mm1-ignis\\Desktop\\Softuni rep\\Algorithms\\Algorithms excercise\\Reverse array\\Reverse array.csproj",
-      "projectName": "Reverse array",
-      "projectPath": "C:\\Users\\mm1-ignis\\Desktop\\Softuni rep\\Algorithms\\Algorithms excercise\\Reverse array\\Reverse array.csproj",
+      "projectUniqueName": "C:\\Users\\mm1-ignis\\Desktop\\Softuni rep\\Algorithms\\Algorithms excercise\\Matrices n shit\\Matrices n shit.csproj",
+      "projectName": "Matrices n shit",
+      "projectPath": "C:\\Users\\mm1-ignis\\Desktop\\Softuni rep\\Algorithms\\Algorithms excercise\\Matrices n shit\\Matrices n shit.csproj",
       "packagesPath": "C:\\Users\\mm1-ignis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mm1-ignis\\Desktop\\Softuni rep\\Algorithms\\Algorithms excercise\\Reverse array\\obj\\",
+      "outputPath": "C:\\Users\\mm1-ignis\\Desktop\\Softuni rep\\Algorithms\\Algorithms excercise\\Matrices n shit\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

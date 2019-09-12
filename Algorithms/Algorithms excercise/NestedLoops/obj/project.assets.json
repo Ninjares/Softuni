@@ -686,25 +686,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\mk2-bawk\\.nuget\\packages\\": {},
+    "C:\\Users\\mm1-ignis\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mk2-bawk\\Desktop\\Softuni rep\\c# advanced\\Algorithms\\Algorithms excercise\\NestedLoops\\NestedLoops.csproj",
+      "projectUniqueName": "C:\\Users\\mm1-ignis\\Desktop\\Softuni rep\\Algorithms\\Algorithms excercise\\NestedLoops\\NestedLoops.csproj",
       "projectName": "NestedLoops",
-      "projectPath": "C:\\Users\\mk2-bawk\\Desktop\\Softuni rep\\c# advanced\\Algorithms\\Algorithms excercise\\NestedLoops\\NestedLoops.csproj",
-      "packagesPath": "C:\\Users\\mk2-bawk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mk2-bawk\\Desktop\\Softuni rep\\c# advanced\\Algorithms\\Algorithms excercise\\NestedLoops\\obj\\",
+      "projectPath": "C:\\Users\\mm1-ignis\\Desktop\\Softuni rep\\Algorithms\\Algorithms excercise\\NestedLoops\\NestedLoops.csproj",
+      "packagesPath": "C:\\Users\\mm1-ignis\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mm1-ignis\\Desktop\\Softuni rep\\Algorithms\\Algorithms excercise\\NestedLoops\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\mk2-bawk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mm1-ignis\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
