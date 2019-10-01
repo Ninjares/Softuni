@@ -1,9 +1,14 @@
 ﻿Use Demo
 
+Select Concat_ws(' ','up', 'ya', 'bumpa') -- (seperator, obj1, obj2,...)
 Select SUBSTRING('SoftUni', 5,3) --Get a part of a string (string, start, length)
 Select REPLACE('Softuni', 'Soft', 'Hard') --Replace part of a string (string, replace, with)
 Select Left('String', 3) --Get n characters from the beginning of the string (string, n)
 Select Right('String', 3) --Get n characters from the end of the string (string, n)
+Select LTRIM('   String .  ')
+Select RTRIM(' .  String    ')
+Select Len('I am 20 letters long')
+Select DATALENGTH('I am 17 bytes big') --Larger with unicode
 Select Lower('StRiNg')
 Select Upper('sTrInG')
 Select REVERSE('Forward')
@@ -43,6 +48,10 @@ Select Cast('45' as decimal(3,1)) --turns one datatype into another
 Select CONVERT(decimal(3,1), '45')
 Select ISNULL(NULL, 'is Null') --if the data is null it return a specified data/object
 Select ISNULL(5, 'is Null') --if not then it returns the data
+
+Select row_number()
+Select rank()
+Select dense_rank()
 
 Use SoftUni
 Select * From Employees
