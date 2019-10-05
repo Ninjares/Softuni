@@ -85,7 +85,7 @@ Select Count(Salary) as [Count] From Employees --17
 Where ManagerID is Null
 
 Select Distinct DepartmentID, Salary From (Select DepartmentId, Salary, 
-DENSE_RANK() Over (Partition By DepartmentId Order by Salary Desc) as [Rank] From Employees)as A --Not finished
+DENSE_RANK() Over (Partition By DepartmentId Order by Salary Desc) as [Rank] From Employees)as A 
 Where [Rank] = 3
 
 --19
