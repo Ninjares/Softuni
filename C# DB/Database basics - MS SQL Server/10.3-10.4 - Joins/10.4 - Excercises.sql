@@ -102,19 +102,15 @@ On cr.RiverId = r.Id
 Where con.ContinentName = 'Africa'
 Order By c.CountryName ASC
 
-Select *, RANK() Over (Partition By ContinentCode Order By CurrencyUsage) as rankk From 
-( 
-	Select ContinentCode, CurrencyCode, Count (CurrencyCode) as CurrencyUsage From Countries --------15
-	Group By ContinentCode, CurrencyCode
-	Having Count(CurrencyCode)>1
-	Order By ContinentCode
-) as a
-
-
-
-
-
-
+Select ContinentCode, CurrencyCode, CurrencyUsage From
+	(Select *, DENSE_RANK() Over (Partition By ContinentCode Order By CurrencyUsage DESC) as [Rank] From (
+		Select ContinentCode, CurrencyCode, Count (CurrencyCode) as CurrencyUsage From Countries --------15
+		Group By ContinentCode, CurrencyCode
+		Having Count(CurrencyCode)>1
+		) as a
+		) as b
+Where [Rank] = 1
+Order By ContinentCode
 
 Select Count(*) From Countries
 Left Join MountainsCountries
@@ -133,10 +129,18 @@ On cr.RiverId = r.Id
 Group By CountryName
 Order By Max(p.Elevation) DESC, Max(r.[Length]) Desc, CountryName
 
-Select * From Countries as c
-Left Join MountainsCountries as mc
-On mc.CountryCode = c.CountryCode
-Left Join Mountains as m
-On mc.MountainId = m.Id
-Left Join Peaks as p
-On p.MountainId = m.Id
+Select CountryName as [Country],
+	ISNULL(PeakName, '(no highest peak)') as [Highest Peak Name],
+	ISNULL(Elevation, 0) as [Highest Peak Elevation],
+	ISNULL(MountainRange, '(no mountain)') as Mountain From(
+	Select CountryName, PeakName, Elevation, MountainRange, Rank() Over (Partition By CountryName Order By Elevation DESC) as [Rank]
+	From Countries as c
+	Left Join MountainsCountries as mc
+	On mc.CountryCode = c.CountryCode
+	Left Join Mountains as m
+	On mc.MountainId = m.Id
+	Left Join Peaks as p
+	On p.MountainId = m.Id
+	) as a
+Where [Rank] = 1
+Order By CountryName, [Highest Peak Name]
