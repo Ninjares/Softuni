@@ -72,15 +72,76 @@ End
 Select dbo.ufn_IsWordComprised('oistmiahf', 'sofia')
 
 Use SoftUni
-Create  Proc usp_DeleteEmployeesFromDepartment (@departmendId int) As
-Alter Table dbo.Departments Alter Column ManagerID int Null
-Update Departments Set ManagerID = null Where @departmendId=DepartmentID
-Delete From Employees Where DepartmentID=@departmendId
-Delete From Departments Where Departments.DepartmentID = @departmendId
-Alter Table dbo.Departments Alter Column ManagerID int Not Null
-Select Count(*) From Employees Where DepartmentID = @departmendId
+Create Proc usp_DeleteEmployeesFromDepartment (@departmendId int) As
+Begin
+	Delete From EmployeesProjects Where EmployeeID in (Select EmployeeID From Employees Where @departmendId=DepartmentID) --Working
+	Update Employees Set ManagerID = null Where ManagerID in (Select EmployeeID From Employees Where @departmendId=DepartmentID)
+	Alter Table Departments Alter Column ManagerID int null
+	Update Departments Set ManagerID = Null Where DepartmentID = @departmendId
+	Delete From Employees Where @departmendId=DepartmentID
+	Delete From Departments Where @departmendId=DepartmentID
+	Alter Table Departments Alter Column ManagerID int not null
+	Select Count(*) From Employees Where DepartmentID = @departmendId
+End
 
-Exec usp_DeleteEmployeesFromDepartment @departmendId = 4
+------
+Use Bank
 
-Use [master]
-Drop Database SoftUni
+Create Proc usp_GetHoldersFullName As
+	Select ConCat(FirstName , ' ',LastName) as [FullName] From AccountHolders
+
+------
+
+Create Proc usp_GetHoldersWithBalanceHigherThan (@HigherThan money) as
+Begin
+	Select [First Name], [Last Name] From (Select FirstName as [First Name], LastName as [Last Name], Sum(Accounts.Balance) as Total From Accounts
+	Inner Join AccountHolders
+	On Accounts.AccountHolderId=AccountHolders.Id
+	Group By FirstName, LastName
+	) as A
+	Where Total > @HigherThan
+	Order By [First Name], [Last Name]
+End
+Exec usp_GetHoldersWithBalanceHigherThan @HigherThan = 50000
+
+Create Function ufn_CalculateFutureValue (@sum money, @InterestRate float, @years int)
+Returns decimal(10,4)
+Begin
+	Return @sum * Power(@interestRate + 1, @years)
+End
+
+Select dbo.ufn_CalculateFutureValue(1000, 0.1, 5)
+
+Create Proc usp_CalculateFutureValueForAccount(@AccountId int, @InterestRate float) as
+Begin
+	Select Accounts.Id as [Account Id], FirstName as [First Name], LastName as [Last Name], Balance as [Current Balance],
+	dbo.ufn_CalculateFutureValue(Balance, @InterestRate, 5) as [Balance in 5 years] From Accounts
+	Inner Join AccountHolders
+	On Accounts.AccountHolderId=AccountHolders.Id
+	Where Accounts.Id=@AccountId
+End
+
+Exec usp_CalculateFutureValueForAccount @AccountId = 5, @InterestRate = 0.06
+
+-----------
+Use Diablo 
+
+Create Or Alter Function ufn_CashInUsersGames (@GameName NvarChar(50))
+Returns @OutPut Table (SumCash Decimal(18,4))
+Begin
+	Insert into @OutPut Select(
+	Select Sum(Cash) as [SumCash] From (
+	Select Cash, ROW_NUMBER() Over(Order By Cash DESC) as RN From UsersGames
+	Inner Join Games
+	On Games.Id = UsersGames.GameId
+	Where [Name] = @GameName
+	) as A
+	Where RN % 2!=0
+	)
+	Return
+End
+
+Select dbo.ufn_CashInUsersGames('Love in a Mist')
+
+-------
+Use Bank
