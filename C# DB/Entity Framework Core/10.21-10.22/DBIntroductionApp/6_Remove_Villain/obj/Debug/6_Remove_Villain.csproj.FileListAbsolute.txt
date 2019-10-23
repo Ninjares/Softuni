@@ -1,0 +1,6 @@
+C:\Users\mm1-ignis\Desktop\Softuni rep\C# DB\Entity Framework Core\10.21-10.22\DBIntroductionApp\6_Remove_Villain\bin\Debug\6_Remove_Villain.exe.config
+C:\Users\mm1-ignis\Desktop\Softuni rep\C# DB\Entity Framework Core\10.21-10.22\DBIntroductionApp\6_Remove_Villain\bin\Debug\6_Remove_Villain.exe
+C:\Users\mm1-ignis\Desktop\Softuni rep\C# DB\Entity Framework Core\10.21-10.22\DBIntroductionApp\6_Remove_Villain\bin\Debug\6_Remove_Villain.pdb
+C:\Users\mm1-ignis\Desktop\Softuni rep\C# DB\Entity Framework Core\10.21-10.22\DBIntroductionApp\6_Remove_Villain\obj\Debug\6_Remove_Villain.csprojAssemblyReference.cache
+C:\Users\mm1-ignis\Desktop\Softuni rep\C# DB\Entity Framework Core\10.21-10.22\DBIntroductionApp\6_Remove_Villain\obj\Debug\6_Remove_Villain.exe
+C:\Users\mm1-ignis\Desktop\Softuni rep\C# DB\Entity Framework Core\10.21-10.22\DBIntroductionApp\6_Remove_Villain\obj\Debug\6_Remove_Villain.pdb

@@ -1,0 +1,6 @@
+C:\Users\mm1-ignis\Desktop\Softuni rep\C# DB\Entity Framework Core\10.21-10.22\DBIntroductionApp\3_Minion_Names\bin\Debug\3_Minion_Names.exe.config
+C:\Users\mm1-ignis\Desktop\Softuni rep\C# DB\Entity Framework Core\10.21-10.22\DBIntroductionApp\3_Minion_Names\bin\Debug\3_Minion_Names.exe
+C:\Users\mm1-ignis\Desktop\Softuni rep\C# DB\Entity Framework Core\10.21-10.22\DBIntroductionApp\3_Minion_Names\bin\Debug\3_Minion_Names.pdb
+C:\Users\mm1-ignis\Desktop\Softuni rep\C# DB\Entity Framework Core\10.21-10.22\DBIntroductionApp\3_Minion_Names\obj\Debug\3_Minion_Names.csprojAssemblyReference.cache
+C:\Users\mm1-ignis\Desktop\Softuni rep\C# DB\Entity Framework Core\10.21-10.22\DBIntroductionApp\3_Minion_Names\obj\Debug\3_Minion_Names.exe
+C:\Users\mm1-ignis\Desktop\Softuni rep\C# DB\Entity Framework Core\10.21-10.22\DBIntroductionApp\3_Minion_Names\obj\Debug\3_Minion_Names.pdb
