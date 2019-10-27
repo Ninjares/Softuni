@@ -4,3 +4,9 @@ C:\Users\mm1-ignis\Desktop\Softuni rep\C# DB\Entity Framework Core\10.21-10.22\D
 C:\Users\mm1-ignis\Desktop\Softuni rep\C# DB\Entity Framework Core\10.21-10.22\DBIntroductionApp\DBIntroductionApp\obj\Debug\DBIntroductionApp.csprojAssemblyReference.cache
 C:\Users\mm1-ignis\Desktop\Softuni rep\C# DB\Entity Framework Core\10.21-10.22\DBIntroductionApp\DBIntroductionApp\obj\Debug\DBIntroductionApp.exe
 C:\Users\mm1-ignis\Desktop\Softuni rep\C# DB\Entity Framework Core\10.21-10.22\DBIntroductionApp\DBIntroductionApp\obj\Debug\DBIntroductionApp.pdb
+C:\Users\mo2-bawk\Desktop\Softuni rep\C# DB\Entity Framework Core\10.21-10.22\DBIntroductionApp\DBIntroductionApp\bin\Debug\DBIntroductionApp.exe.config
+C:\Users\mo2-bawk\Desktop\Softuni rep\C# DB\Entity Framework Core\10.21-10.22\DBIntroductionApp\DBIntroductionApp\bin\Debug\DBIntroductionApp.exe
+C:\Users\mo2-bawk\Desktop\Softuni rep\C# DB\Entity Framework Core\10.21-10.22\DBIntroductionApp\DBIntroductionApp\bin\Debug\DBIntroductionApp.pdb
+C:\Users\mo2-bawk\Desktop\Softuni rep\C# DB\Entity Framework Core\10.21-10.22\DBIntroductionApp\DBIntroductionApp\obj\Debug\DBIntroductionApp.csprojAssemblyReference.cache
+C:\Users\mo2-bawk\Desktop\Softuni rep\C# DB\Entity Framework Core\10.21-10.22\DBIntroductionApp\DBIntroductionApp\obj\Debug\DBIntroductionApp.exe
+C:\Users\mo2-bawk\Desktop\Softuni rep\C# DB\Entity Framework Core\10.21-10.22\DBIntroductionApp\DBIntroductionApp\obj\Debug\DBIntroductionApp.pdb

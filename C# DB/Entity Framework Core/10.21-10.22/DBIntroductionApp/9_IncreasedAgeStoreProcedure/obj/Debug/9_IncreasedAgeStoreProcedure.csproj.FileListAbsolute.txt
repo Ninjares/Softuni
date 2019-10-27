@@ -1,0 +1,5 @@
+C:\Users\mo2-bawk\Desktop\Softuni rep\C# DB\Entity Framework Core\10.21-10.22\DBIntroductionApp\9_IncreasedAgeStoreProcedure\bin\Debug\9_IncreasedAgeStoreProcedure.exe.config
+C:\Users\mo2-bawk\Desktop\Softuni rep\C# DB\Entity Framework Core\10.21-10.22\DBIntroductionApp\9_IncreasedAgeStoreProcedure\bin\Debug\9_IncreasedAgeStoreProcedure.exe
+C:\Users\mo2-bawk\Desktop\Softuni rep\C# DB\Entity Framework Core\10.21-10.22\DBIntroductionApp\9_IncreasedAgeStoreProcedure\bin\Debug\9_IncreasedAgeStoreProcedure.pdb
+C:\Users\mo2-bawk\Desktop\Softuni rep\C# DB\Entity Framework Core\10.21-10.22\DBIntroductionApp\9_IncreasedAgeStoreProcedure\obj\Debug\9_IncreasedAgeStoreProcedure.exe
+C:\Users\mo2-bawk\Desktop\Softuni rep\C# DB\Entity Framework Core\10.21-10.22\DBIntroductionApp\9_IncreasedAgeStoreProcedure\obj\Debug\9_IncreasedAgeStoreProcedure.pdb

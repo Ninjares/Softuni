@@ -23,7 +23,7 @@ namespace DBIntroductionApp
                     string query = "Create Database MinionsDB";
                     SqlCommand createDBcommand = new SqlCommand(query, connection);
                     createDBcommand.ExecuteNonQuery();
-                    Console.WriteLine("All good nigga");
+                    Console.WriteLine("Database Created");
                 }
                 catch (Exception e)
                 {
@@ -46,10 +46,11 @@ namespace DBIntroductionApp
                 try
                 {
                     CreateTableCmd.ExecuteNonQuery();
+                    Console.WriteLine("Tabled created");
                 }
                 catch (Exception e)
                 {
-                    Console.WriteLine("Shit fucked up: "+e.Message);
+                    Console.WriteLine(e.Message);
                 }
                 Query = @"  INSERT INTO Countries ([Name]) VALUES ('Bulgaria'),('England'),('Cyprus'),('Germany'),('Norway')
                             INSERT INTO Towns([Name], CountryCode) VALUES('Plovdiv', 1),('Varna', 1),('Burgas', 1),('Sofia', 1),('London', 2),('Southampton', 2),('Bath', 2),('Liverpool', 2),('Berlin', 3),('Frankfurt', 3),('Oslo', 4)

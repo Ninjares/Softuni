@@ -1,4 +1,4 @@
-﻿using System;
+﻿ using System;
 using System.Collections.Generic;
 using System.Data.SqlClient;
 using System.Linq;
@@ -30,14 +30,36 @@ namespace _3_Minion_Names
                 {
                     SqlCommand commandVillain = new SqlCommand(String.Format(VillainNameQuery, id), connection);
                     SqlDataReader villainReader = commandVillain.ExecuteReader();
-                    villainReader.Read();
-                    Console.WriteLine($"Villain: {villainReader.GetString(0)}");
+                    if (!villainReader.Read())
+                        Console.WriteLine($"No villain with ID {id} exists in the database.");
+                    else
+                    {
+                        Console.WriteLine($"Villain: {villainReader.GetString(0)}");
+                        villainReader.Close();
+                        try
+                        {
+                            SqlCommand minionsCommand = new SqlCommand(String.Format(MinionsQuery, id), connection);
+                            SqlDataReader minionsReader = minionsCommand.ExecuteReader();
+                            int row = 1;
+                            while (minionsReader.Read())
+                            {
+                                Console.WriteLine($"{row++}. {minionsReader.GetString(0)} {minionsReader.GetInt32(1)}");
+                            }
+                            if (row == 1) Console.WriteLine("(no minions)");
+                            minionsReader.Close();
+                        }
+                        catch (Exception e)
+                        {
+                            Console.WriteLine(e.Message);
+                        }
+                    }
                 }
-                catch(Exception e)
+                catch (Exception e)
                 {
                     Console.WriteLine(e.Message);
                 }
             }
+            Console.ReadKey();
 
         }
     }

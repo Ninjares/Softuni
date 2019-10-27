@@ -1,0 +1,6 @@
+C:\Users\mo2-bawk\Desktop\Softuni rep\C# DB\Entity Framework Core\10.21-10.22\DBIntroductionApp\4_AddMinion\bin\Debug\4_AddMinion.exe.config
+C:\Users\mo2-bawk\Desktop\Softuni rep\C# DB\Entity Framework Core\10.21-10.22\DBIntroductionApp\4_AddMinion\bin\Debug\4_AddMinion.exe
+C:\Users\mo2-bawk\Desktop\Softuni rep\C# DB\Entity Framework Core\10.21-10.22\DBIntroductionApp\4_AddMinion\bin\Debug\4_AddMinion.pdb
+C:\Users\mo2-bawk\Desktop\Softuni rep\C# DB\Entity Framework Core\10.21-10.22\DBIntroductionApp\4_AddMinion\obj\Debug\4_AddMinion.csprojAssemblyReference.cache
+C:\Users\mo2-bawk\Desktop\Softuni rep\C# DB\Entity Framework Core\10.21-10.22\DBIntroductionApp\4_AddMinion\obj\Debug\4_AddMinion.exe
+C:\Users\mo2-bawk\Desktop\Softuni rep\C# DB\Entity Framework Core\10.21-10.22\DBIntroductionApp\4_AddMinion\obj\Debug\4_AddMinion.pdb

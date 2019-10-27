@@ -1,0 +1,5 @@
+C:\Users\mo2-bawk\Desktop\Softuni rep\C# DB\Entity Framework Core\10.21-10.22\DBIntroductionApp\8_IncreaseMinionAge\bin\Debug\8_IncreaseMinionAge.exe.config
+C:\Users\mo2-bawk\Desktop\Softuni rep\C# DB\Entity Framework Core\10.21-10.22\DBIntroductionApp\8_IncreaseMinionAge\bin\Debug\8_IncreaseMinionAge.exe
+C:\Users\mo2-bawk\Desktop\Softuni rep\C# DB\Entity Framework Core\10.21-10.22\DBIntroductionApp\8_IncreaseMinionAge\bin\Debug\8_IncreaseMinionAge.pdb
+C:\Users\mo2-bawk\Desktop\Softuni rep\C# DB\Entity Framework Core\10.21-10.22\DBIntroductionApp\8_IncreaseMinionAge\obj\Debug\8_IncreaseMinionAge.exe
+C:\Users\mo2-bawk\Desktop\Softuni rep\C# DB\Entity Framework Core\10.21-10.22\DBIntroductionApp\8_IncreaseMinionAge\obj\Debug\8_IncreaseMinionAge.pdb
