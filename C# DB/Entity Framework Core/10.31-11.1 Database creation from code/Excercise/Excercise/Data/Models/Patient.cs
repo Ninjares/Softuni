@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Excercise.Data.Models
+namespace P01_HospitalDatabase.Data.Models
 {
     using System.ComponentModel.DataAnnotations;
     public class Patient

@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Text;
 
-namespace Excercise.Data.Models
+namespace P01_HospitalDatabase.Data.Models
 {
     public class Visitation
     {
@@ -17,7 +17,8 @@ namespace Excercise.Data.Models
         public string Comments { get; set; }
         [Required]
         public int PatientId { get; set; }
-        public int DoctrorId { get; set; }
+        [Required]
+        public int DoctorId { get; set; }
 
         public virtual Doctor Doctor { get; set; }
         public virtual Patient Patient { get; set; }

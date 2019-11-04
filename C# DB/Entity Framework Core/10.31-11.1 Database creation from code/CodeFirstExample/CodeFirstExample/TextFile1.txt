@@ -5,6 +5,8 @@
 5. Onconfiguring(connectionstring)  + OnModelCreating (Models)
 6. RelationShip - ForeignKey TownId + Property Town Town (for less queries) + Collection in the other model
 6.5 Many-To-Many - (2 one to manys) + .haskey(sc => new{sc.FirstKeyId, sc.SecondKeyId})
-7. AddMigration {MigrationName} in PMConsole
-8. db.Database.Migrate();
+7. Add-Migration {MigrationName} in PMConsole
+8. db.Database.Migrate(); (using EntityFrameworkCore)
 9. Ready to query it
+ProductsAddColumnDescription
+SalesAddDateDefault

@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Sales.Data
+namespace P03_SalesDatabase.Data
 {
     using Microsoft.EntityFrameworkCore;
-    using Sales.Data.Models;
+    using P03_SalesDatabase.Data.Models;
     public class SalesContext :DbContext
     {
         public SalesContext() { }
@@ -26,11 +26,12 @@ namespace Sales.Data
             modelBuilder.Entity<Product>(product =>
             {
                 product.Property(x => x.Name).IsUnicode(true);
+                product.Property(x => x.Description).HasDefaultValue("No description");
             });
             modelBuilder.Entity<Customer>(customer =>
             {
                 customer.Property(x => x.Name).IsUnicode(true);
-                //customer.Property(x => x.Email).IsUnicode(false);
+                customer.Property(x => x.Email).IsUnicode(false);
 
             });
             modelBuilder.Entity<Store>(store =>
@@ -39,6 +40,7 @@ namespace Sales.Data
             });
             modelBuilder.Entity<Sale>(sale =>
             {
+                sale.Property(d => d.Date).HasColumnType("DATETIME2").HasDefaultValueSql("GetDate()");
                 sale.HasOne(x => x.Product).WithMany(x => x.Sales).HasForeignKey(x => x.ProductId).HasConstraintName("FK_Product");
                 sale.HasOne(x => x.Store).WithMany(x => x.Sales).HasForeignKey(x => x.StoreId).HasConstraintName("FK_Store");
                 sale.HasOne(x => x.Customer).WithMany(x => x.Sales).HasForeignKey(x => x.CustomerId).HasConstraintName("FK_Customer");

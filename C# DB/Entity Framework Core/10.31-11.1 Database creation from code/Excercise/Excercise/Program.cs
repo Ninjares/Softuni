@@ -1,9 +1,9 @@
 ﻿using System;
 
-namespace Excercise
+namespace P01_HospitalDatabase
 {
-    using Excercise.Data;
-    using Excercise.Data.Models;
+    using P01_HospitalDatabase.Data;
+    using P01_HospitalDatabase.Data.Models;
     public class StartUp
     {
         static void Main(string[] args)

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Excercise.Data.Models
+namespace P01_HospitalDatabase.Data.Models
 {
     using System.ComponentModel.DataAnnotations;
 
@@ -10,11 +10,10 @@ namespace Excercise.Data.Models
     {
         [Key]
         public int DoctorId { get; set; }
-        [MaxLength(50)]
+        [MaxLength(100)]
         [Required]
         public string Name { get; set; }
-        [MaxLength(50)]
-        [Required]
+        [MaxLength(100)]
         public string Specialty { get; set; }
         public virtual ICollection<Visitation> Visitations { get; set; }
     }

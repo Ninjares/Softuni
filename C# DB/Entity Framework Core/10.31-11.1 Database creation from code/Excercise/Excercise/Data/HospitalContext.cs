@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Excercise.Data
+namespace P01_HospitalDatabase.Data
 {
-    using Excercise.Data.Models;
+    using P01_HospitalDatabase.Data.Models;
     using Microsoft.EntityFrameworkCore;
 
     public class HospitalContext : DbContext
@@ -47,14 +47,14 @@ namespace Excercise.Data
             {
                 pm.HasOne(p => p.Patient).WithMany(m => m.Prescriptions).HasForeignKey(x => x.PatientId).HasConstraintName("FK_PresciptionPatient");
                 pm.HasOne(m => m.Medicament).WithMany(p => p.Prescriptions).HasForeignKey(x => x.MedicamentId).HasConstraintName("FK_PresciptionMedication");
-                pm.HasKey(pm => new { pm.PatientId, pm.MedicamentId });
+                pm.HasKey(pmk => new { pmk.PatientId, pmk.MedicamentId });
                 pm.ToTable("Prescriptions");
             });
 
             modelBuilder.Entity<Visitation>(visitation =>
             {
                 visitation.Property(v => v.Comments).IsUnicode(true);
-                visitation.HasOne(d => d.Doctor).WithMany(v => v.Visitations).HasForeignKey(x => x.DoctrorId).HasConstraintName("FK_VisitationDoctor");
+                visitation.HasOne(d => d.Doctor).WithMany(v => v.Visitations).HasForeignKey(x => x.DoctorId).HasConstraintName("FK_VisitationDoctor");
                 visitation.HasOne(p => p.Patient).WithMany(v => v.Visitations).HasForeignKey(x => x.PatientId).HasConstraintName("FK_VisitationPatient");
             });
             modelBuilder.Entity<Diagnose>(diagnose =>
