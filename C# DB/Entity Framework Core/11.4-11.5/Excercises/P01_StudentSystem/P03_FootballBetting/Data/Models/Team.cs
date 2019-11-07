@@ -1,7 +1,5 @@
-﻿using System;
+﻿
 using System.Collections.Generic;
-using System.Text;
-
 namespace P03_FootballBetting.Data.Models
 {
     public class Team
@@ -10,9 +8,17 @@ namespace P03_FootballBetting.Data.Models
         public string Name { get; set; }
         public string LogoUrl { get; set; }
         public string Initials { get; set; }
-        public decimal Bidget { get; set; }
+        public decimal Budget { get; set; }
         public int PrimaryKitColorId { get; set; }
-        public int SecondaryKytColorId { get; set; }
+        public int SecondaryKitColorId { get; set; }
         public int TownId { get; set; }
+
+        public Color PrimaryKitColor { get; set; }
+        public Color SecondaryKitColor { get; set; }
+        public Town Town { get; set; }
+
+        public ICollection<Player> Players { get; set; } = new HashSet<Player>();
+        public ICollection<Game> HomeGames { get; set; } = new HashSet<Game>();
+        public ICollection<Game> AwayGames { get; set; } = new HashSet<Game>();
     }
 }

@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
 
 namespace P03_FootballBetting.Data.Models
 {
@@ -15,6 +14,12 @@ namespace P03_FootballBetting.Data.Models
         public decimal HomeTeamBetRate { get; set; }
         public decimal AwayTeamBetRate { get; set; }
         public decimal DrawBetRate { get; set; }
-        public string Result { get; set; }
+        public int Result { get; set; }
+
+        public ICollection<PlayerStatistic> PlayerStatistics { get; set; } = new HashSet<PlayerStatistic>();
+        public ICollection<Bet> Bets { get; set; } = new HashSet<Bet>();
+
+        public Team HomeTeam { get; set; }
+        public Team AwayTeam { get; set; }
     }
 }
