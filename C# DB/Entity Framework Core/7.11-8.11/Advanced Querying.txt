@@ -1,0 +1,24 @@
+1. Model Validation (Migrations, etc.) - 1-5s.
+2. Query - Cold
+	-Analyze LINQ
+	-Translate to SQL
+	-Execute
+	-Build Result
+3. Query - Warm
+	-Analyze LINQ
+	-Get SQL From Cache
+	-Execute
+	-Build Result
+4. Compiled Query
+	-Get SQL from cache
+	-Execute
+	-Build Result
+5. SQL 
+
+car sc = Xdbcontext1.SomeQuery()
+sc.Property += 1;
+Xdbontext2.SaveChanges();
+
+--won't work
+You need:
+Xdbcontext2.Attach(sc);
