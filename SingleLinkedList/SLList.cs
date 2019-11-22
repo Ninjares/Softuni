@@ -1,10 +1,11 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Text;
 
 namespace SingleLinkedList
 {
-    class SLList<T>
+    public class SLList<T> : IEnumerable
     {
         //add empty list protection
         //add foreach cycler
@@ -49,6 +50,12 @@ namespace SingleLinkedList
             foreach (T item in items) Add(item);
         }
 
+        //public SLList(SLList<T> list) : this()
+        //{
+        //    for (int i = 0; i < list.Count; i++)
+        //        this.Add(list[i]);
+        //}
+
         public void Add(T item)
         {
             ListNode newnode = new ListNode(item);
@@ -78,9 +85,13 @@ namespace SingleLinkedList
                 for(int i=0; i<Count; i++) if(AreEqual(item, this[i])) { RemoveAt(i); break; }
             }
         }
+
+        public IEnumerator GetEnumerator()
+        {
+            return new Enumerator(this);
+        }
+
         
-
-
         #region private
 
         private bool ContainsCycler(T item, ListNode currentnode)
@@ -136,6 +147,30 @@ namespace SingleLinkedList
         {
             if (at == 0) currentnode.item = item;
             else SetAt(at - 1, currentnode.previousNode, item);
+        }
+
+        private class Enumerator : IEnumerator
+        {
+            public SLList<T> list;
+
+            public Enumerator(SLList<T> l)
+            {
+                list = l;
+            }
+
+            int i = -1;
+            public object Current => list[i];
+
+            public bool MoveNext()
+            {
+                i++;
+                return i < list.Count;
+            }
+
+            public void Reset()
+            {
+                i = -1;
+            }
         }
         #endregion
     }

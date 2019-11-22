@@ -7,6 +7,8 @@
 
     using Data;
     using ViewModels.Orders;
+    using FastFood.Models;
+    using AutoMapper.QueryableExtensions;
 
     public class OrdersController : Controller
     {
@@ -32,13 +34,26 @@
 
         [HttpPost]
         public IActionResult Create(CreateOrderInputModel model)
-        { 
+        {
+            if (!ModelState.IsValid)
+                return View("Error", "Home");
+            var order = mapper.Map<Order>(model);
+            order.DateTime = DateTime.Now;
+            var orderItem = new OrderItem()
+            {
+                ItemId = mapper.Map<OrderItem>(model).ItemId,
+                Order = order
+            };
+            context.Orders.Add(order);
+            context.OrderItems.Add(orderItem);
+            context.SaveChanges();
             return this.RedirectToAction("All", "Orders");
         }
 
         public IActionResult All()
         {
-            throw new NotImplementedException();
+            var orders = this.context.Orders.ProjectTo<OrderAllViewModel>(mapper.ConfigurationProvider).ToList();
+            return View(orders);
         }
     }
 }
