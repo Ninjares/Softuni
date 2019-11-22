@@ -1,6 +1,0 @@
-C:\Users\mo2-bawk\Desktop\Softuni rep\C# DB\Entity Framework Core\10.21-10.22\DBIntroductionApp\5_TownName\bin\Debug\5_TownName.exe.config
-C:\Users\mo2-bawk\Desktop\Softuni rep\C# DB\Entity Framework Core\10.21-10.22\DBIntroductionApp\5_TownName\bin\Debug\5_TownName.exe
-C:\Users\mo2-bawk\Desktop\Softuni rep\C# DB\Entity Framework Core\10.21-10.22\DBIntroductionApp\5_TownName\bin\Debug\5_TownName.pdb
-C:\Users\mo2-bawk\Desktop\Softuni rep\C# DB\Entity Framework Core\10.21-10.22\DBIntroductionApp\5_TownName\obj\Debug\5_TownName.csprojAssemblyReference.cache
-C:\Users\mo2-bawk\Desktop\Softuni rep\C# DB\Entity Framework Core\10.21-10.22\DBIntroductionApp\5_TownName\obj\Debug\5_TownName.exe
-C:\Users\mo2-bawk\Desktop\Softuni rep\C# DB\Entity Framework Core\10.21-10.22\DBIntroductionApp\5_TownName\obj\Debug\5_TownName.pdb
