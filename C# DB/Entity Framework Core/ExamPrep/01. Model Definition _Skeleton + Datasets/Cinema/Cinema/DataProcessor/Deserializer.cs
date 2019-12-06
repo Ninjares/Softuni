@@ -10,6 +10,9 @@
     using System.ComponentModel.DataAnnotations;
     using System.Linq;
     using System.Text;
+    using System.Xml.Serialization;
+    using System.IO;
+    using System.Globalization;
 
     public class Deserializer
     {
@@ -72,12 +75,48 @@
 
         public static string ImportProjections(CinemaContext context, string xmlString)
         {
-            throw new NotImplementedException();
+            StringBuilder sb = new StringBuilder();
+            var serializer = new XmlSerializer(typeof(ProjectionDTO[]), new XmlRootAttribute("Projections"));
+            var proDtos = (ProjectionDTO[])serializer.Deserialize(new StringReader(xmlString));
+            foreach(var dto in proDtos)
+            {
+                Projection projection = Mapper.Map<Projection>(dto);
+                if (IsValid(projection) && context.Movies.Any(x => x.Id == projection.MovieId) && context.Halls.Any(x => x.Id == projection.HallId))
+                {
+                    context.Projections.Add(projection);
+                    sb.AppendLine(String.Format(SuccessfulImportProjection, projection.Movie.Title, projection.DateTime.ToString("MM/dd/yyyy", CultureInfo.InvariantCulture)));
+                }
+                else sb.AppendLine(ErrorMessage);
+            }
+            context.SaveChanges();
+            return sb.ToString();
         }
 
         public static string ImportCustomerTickets(CinemaContext context, string xmlString)
         {
-            throw new NotImplementedException();
+            StringBuilder sb = new StringBuilder();
+            var serializer = new XmlSerializer(typeof(CustomerDTO[]), new XmlRootAttribute("Customers"));
+            var custDtos = (CustomerDTO[])serializer.Deserialize(new StringReader(xmlString));
+            foreach(var dto in custDtos)
+            {
+                Customer customer = new Customer
+                {
+                    Age = dto.Age,
+                    Balance = dto.Balance,
+                    FirstName = dto.FirstName,
+                    LastName = dto.LastName
+                };
+                Ticket[] tickets = dto.Tickets.Select(t => new Ticket { Customer = customer, ProjectionId = t.ProjectionId, Price = t.Price }).ToArray();
+                if (IsValid(customer))
+                {
+                    context.Customers.Add(customer);
+                    context.Tickets.AddRange(tickets.Where(x => IsValid(x)));
+                    sb.AppendLine(String.Format(SuccessfulImportCustomerTicket, customer.FirstName, customer.LastName, tickets.Where(x => IsValid(x)).Count()));
+                }
+                else sb.AppendLine(ErrorMessage);
+            }
+            context.SaveChanges();
+            return sb.ToString();
         }
 
         private static bool IsValid(object obj)

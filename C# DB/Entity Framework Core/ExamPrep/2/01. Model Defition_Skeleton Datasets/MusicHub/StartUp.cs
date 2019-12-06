@@ -1,27 +1,26 @@
-﻿namespace Cinema
+﻿namespace MusicHub
 {
     using System;
     using System.IO;
 
     using AutoMapper;
     using Microsoft.EntityFrameworkCore;
-
+   
     using Data;
 
     public class StartUp
     {
         public static void Main(string[] args)
         {
-            var context = new CinemaContext();
+            var context = new MusicHubDbContext();
 
-            Mapper.Initialize(config => config.AddProfile<CinemaProfile>());
+            Mapper.Initialize(config => config.AddProfile<MusicHubProfile>());
 
             ResetDatabase(context, shouldDropDatabase: true);
 
             var projectDir = GetProjectDirectory();
-
+            
             ImportEntities(context, projectDir + @"Datasets/", projectDir + @"ImportResults/");
-
             ExportEntities(context, projectDir + @"ExportResults/");
 
             using (var transaction = context.Database.BeginTransaction())
@@ -30,43 +29,37 @@
             }
         }
 
-        private static void ImportEntities(CinemaContext context, string baseDir, string exportDir)
+        private static void ImportEntities(MusicHubDbContext context, string baseDir, string exportDir)
         {
-            var movies =
-                DataProcessor.Deserializer.ImportMovies(context,
-                    File.ReadAllText(baseDir + "movies.json"));
-            PrintAndExportEntityToFile(movies, exportDir + "Actual Result - ImportMovies.txt");
+            var writers = DataProcessor.Deserializer.ImportWriters(context,
+                    File.ReadAllText(baseDir + "ImportWriters.json"));
+            PrintAndExportEntityToFile(writers, exportDir + "ImportWriters.txt");
 
-            var hallSeats =
-                DataProcessor.Deserializer.ImportHallSeats(context,
-                    File.ReadAllText(baseDir + "halls-seats.json"));
-            PrintAndExportEntityToFile(hallSeats, exportDir + "Actual Result - ImportHallSeats.txt");
+            var producerAlbums = DataProcessor.Deserializer.ImportProducersAlbums(context,
+                    File.ReadAllText(baseDir + "ImportProducersAlbums.json"));
+            PrintAndExportEntityToFile(producerAlbums, exportDir + "ImportProducersAlbums.txt");
 
-            var projections = DataProcessor.Deserializer.ImportProjections(context,
-                File.ReadAllText(baseDir + "projections.xml"));
-            PrintAndExportEntityToFile(projections, exportDir + "Actual Result - ImportProjections.txt");
+            var songs = DataProcessor.Deserializer.ImportSongs(context, 
+                File.ReadAllText(baseDir + "ImportSongs.xml"));
+            PrintAndExportEntityToFile(songs, exportDir + "ImportSongs.txt");
 
-            var customerTickets =
-                DataProcessor.Deserializer.ImportCustomerTickets(context,
-                    File.ReadAllText(baseDir + "customers-tickets.xml"));
-            PrintAndExportEntityToFile(customerTickets, exportDir + "Actual Result - ImportCustomerTickets.txt");
+            var performers = DataProcessor.Deserializer.ImportSongPerformers(context, 
+                File.ReadAllText(baseDir + "ImportSongPerformers.xml"));
+            PrintAndExportEntityToFile(performers, exportDir + "ImportSongPerformers.txt");
         }
 
-        private static void ExportEntities(CinemaContext context, string exportDir)
+        private static void ExportEntities(MusicHubDbContext context, string exportDir)
         {
-            var exportTopMovies = DataProcessor.Serializer.ExportTopMovies(context, 5);
-            Console.WriteLine(exportTopMovies);
-            Console.WriteLine(exportTopMovies[144].ToString() + exportTopMovies[145].ToString() + exportTopMovies[146].ToString());
-            File.WriteAllText(exportDir + "Actual Result - ExportTopMovies.json", exportTopMovies);
+            var jsonOutput = DataProcessor.Serializer.ExportAlbumsInfo(context, 9);
+            Console.WriteLine(jsonOutput);
+            File.WriteAllText(exportDir + "Actual - AlbumsInfo.json", jsonOutput);
 
-            var exportTopCustomers = DataProcessor.Serializer.ExportTopCustomers(context, 14);
-            Console.WriteLine(exportTopCustomers);
-            Console.WriteLine(exportTopCustomers[70].ToString() + exportTopCustomers[71].ToString() + exportTopCustomers[72].ToString());
-            Console.WriteLine(exportTopCustomers.Length);
-            File.WriteAllText(exportDir + "Actual Result - ExportTopCustomers.xml", exportTopCustomers);
+            var xmlOutput = DataProcessor.Serializer.ExportSongsAboveDuration(context, 4);
+            Console.WriteLine(xmlOutput);
+            File.WriteAllText(exportDir + "Actual - SongsAboveDuration.xml", xmlOutput);
         }
 
-        private static void ResetDatabase(CinemaContext context, bool shouldDropDatabase = false)
+        private static void ResetDatabase(MusicHubDbContext context, bool shouldDropDatabase = false)
         {
             if (shouldDropDatabase)
             {

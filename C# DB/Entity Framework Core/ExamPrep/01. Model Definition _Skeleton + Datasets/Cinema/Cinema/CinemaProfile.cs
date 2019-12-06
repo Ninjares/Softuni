@@ -4,6 +4,7 @@ using Cinema.Data.Models.Enums;
 using Cinema.DataProcessor.ImportDto;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace Cinema
 {
@@ -22,6 +23,15 @@ namespace Cinema
                 .ForMember(d => d.Name, o => o.MapFrom(s => s.Name))
                 .ForMember(d => d.Is3D, o => o.MapFrom(s => s.Is3D))
                 .ForMember(d => d.Is4Dx, o => o.MapFrom(s => s.Is4Dx));
+            CreateMap<ProjectionDTO, Projection>()
+                .ForMember(d => d.MovieId, o => o.MapFrom(s => s.MovieId))
+                .ForMember(d => d.HallId, o => o.MapFrom(s => s.HallId))
+                .ForMember(d => d.DateTime, o => o.MapFrom(s => DateTime.Parse(s.DateTime)));
+            CreateMap<CustomerDTO, Customer>()
+                .ForMember(x => x.FirstName, o => o.MapFrom(s => s.FirstName))
+                .ForMember(x => x.LastName, o => o.MapFrom(s => s.LastName))
+                .ForMember(x => x.Age, o => o.MapFrom(s => s.Age))
+                .ForMember(x => x.Balance, o => o.MapFrom(s => s.Balance));
         }
     }
 }

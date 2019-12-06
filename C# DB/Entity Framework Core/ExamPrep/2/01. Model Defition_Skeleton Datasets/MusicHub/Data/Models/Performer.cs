@@ -3,12 +3,11 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Text;
 
-namespace Cinema.Data.Models
+namespace MusicHub.Data.Models
 {
-    
-    public class Customer
+    public class Performer
     {
-        private const decimal min = 0.01m;
+        [Key]
         public int Id { get; set; }
         [Required]
         [StringLength(20, MinimumLength = 3)]
@@ -16,10 +15,12 @@ namespace Cinema.Data.Models
         [Required]
         [StringLength(20, MinimumLength = 3)]
         public string LastName { get; set; }
-        [Range(12,110)]
+        [Range(18,70)]
+        [Required]
         public int Age { get; set; }
-        [Range(typeof(decimal), "0" , "1000000000")]
-        public decimal Balance { get; set; }
-        public ICollection<Ticket> Tickets { get; set; } = new HashSet<Ticket>();
+        [Required]
+        [Range(typeof(decimal), "0", "999999999")]
+        public decimal NetWorth { get; set; }
+        public ICollection<SongPerformer> PerformerSongs { get; set; } = new HashSet<SongPerformer>();
     }
 }
