@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AI memes", "AI memes\AI memes.csproj", "{0510AD6E-B7FD-4AE9-9388-8986F1BCB032}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0510AD6E-B7FD-4AE9-9388-8986F1BCB032}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0510AD6E-B7FD-4AE9-9388-8986F1BCB032}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0510AD6E-B7FD-4AE9-9388-8986F1BCB032}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0510AD6E-B7FD-4AE9-9388-8986F1BCB032}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {048F9E17-B12B-4657-9257-91E63D766684}
+	EndGlobalSection
+EndGlobal

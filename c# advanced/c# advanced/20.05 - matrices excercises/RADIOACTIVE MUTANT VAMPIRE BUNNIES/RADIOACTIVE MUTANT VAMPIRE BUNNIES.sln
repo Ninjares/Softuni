@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RADIOACTIVE MUTANT VAMPIRE BUNNIES", "RADIOACTIVE MUTANT VAMPIRE BUNNIES.csproj", "{E26903F9-F24B-403F-B2E6-627FB88ED049}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E26903F9-F24B-403F-B2E6-627FB88ED049}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E26903F9-F24B-403F-B2E6-627FB88ED049}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E26903F9-F24B-403F-B2E6-627FB88ED049}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E26903F9-F24B-403F-B2E6-627FB88ED049}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A555FE35-B0FE-48A8-9990-0384B3A162B9}
+	EndGlobalSection
+EndGlobal
