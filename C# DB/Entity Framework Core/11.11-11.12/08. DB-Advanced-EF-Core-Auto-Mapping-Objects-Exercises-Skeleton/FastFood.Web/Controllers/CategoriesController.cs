@@ -27,6 +27,24 @@
             return this.View();
         }
 
+        public IActionResult Hybrid()
+        {
+            IList<CategoryAllViewModel> categories = context.Categories.ProjectTo<CategoryAllViewModel>(mapper.ConfigurationProvider).ToList();
+            return this.View("Hybrid", categories);
+        }
+        [HttpPost]
+        public IActionResult HybridCreate(CreateCategoryInputModel model)
+        {
+            if (!ModelState.IsValid)
+            {
+                return View("Error", "Home");
+            }
+            var category = this.mapper.Map<Category>(model);
+            context.Categories.Add(category);
+            context.SaveChanges();
+            return RedirectToAction("Hybrid", "Categories");
+        }
+
         [HttpPost]
         public IActionResult Create(CreateCategoryInputModel model)
         {
