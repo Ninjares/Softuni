@@ -2,6 +2,7 @@
 {
     public class CategoryAllViewModel
     {
+        //Get model
         public string Name { get; set; }
     }
 }
