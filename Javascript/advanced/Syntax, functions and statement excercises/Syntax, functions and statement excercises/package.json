@@ -1,0 +1,9 @@
+{
+  "name": "syntax--functions-and-statement-excercises",
+  "version": "0.0.0",
+  "description": "Syntax, functions and statement excercises",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
