@@ -1,0 +1,23 @@
+Read:
+GET request with <api url>/branch1/branch2/.. .json
+Example: https://myfirstbase-8d050.firebaseio.com/books/2.json
+
+Write:
+Post request adds branch with json body <api url>/branch1/branch2/.../<targetbranch>.json
+Example: 
+POST https://myfirstbase-8d050.firebaseio.com/books.json
+with body 
+{
+    "author": "Yes",
+    "title": "No"
+}
+
+Delete:
+DELETE request with target branch <api url>/branch1/branch2/.. .json
+
+Update:
+PUT request with target branch and updated data in a json body (it works also as a post request if there is no present data in the database)
+
+
+
+npm install -g firebase-tools

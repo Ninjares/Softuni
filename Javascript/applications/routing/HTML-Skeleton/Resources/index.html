@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>Animations & Interceptors Exercise</title>
+  <base href="/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="https://bootswatch.com/4/lux/bootstrap.min.css">
+  <link rel="stylesheet" href="./Resources/notifications.css">
+  <script src="./../node_modules/jquery/dist/jquery.min.js"></script>
+  <script src="./../node_modules/sammy/lib/min/sammy-latest.min.js"></script>
+  <script src="./../node_modules/handlebars/dist/handlebars.min.js"></script>
+</head>
+
+<body id="main">
+  <nav>
+    <a href="#/">HOME</a>
+    <a href="#/furniture/profile">Profile</a>
+    <a href="#/furniture/create">Create</a>
+  </nav>
+  <div id="container">
+    <div id="notifications">
+      <div id="loadingBox" class="notification">
+          <span>Loading …</span>
+      </div>
+      <div id="infoBox" class="notification">
+          <span>Info</span>
+      </div>
+      <div id="errorBox" class="notification">
+          <span>Error</span>
+      </div>
+    </div>
+  </div>
+  <div id="notifications">
+    <div id="loadingBox" class="notification">
+        <span>Loading …</span>
+    </div>
+    <div id="infoBox" class="notification">
+        <span>Info</span>
+    </div>
+    <div id="errorBox" class="notification">
+        <span>Error</span>
+    </div>
+  </div>
+
+
+
+
+  <!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="https://www.gstatic.com/firebasejs/7.17.1/firebase-app.js"></script>
+
+<!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+
+<script>
+  // Your web app's Firebase configuration
+  var firebaseConfig = {
+    apiKey: "AIzaSyCKPCry7a883K3L8IWq6weEgGRjFnKxAWo",
+    authDomain: "furniture-153e2.firebaseapp.com",
+    databaseURL: "https://furniture-153e2.firebaseio.com",
+    projectId: "furniture-153e2",
+    storageBucket: "furniture-153e2.appspot.com",
+    messagingSenderId: "368877448079",
+    appId: "1:368877448079:web:58bfc1ce9ec011d8cb39fa"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+</script>
+<script src="./Resources/routing.js"></script>
+
+
+
+</body>
+
+</html>
