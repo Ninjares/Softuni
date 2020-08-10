@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Application 2020</title>
+    <link rel="icon" type="image/png" href="../static/favicon.ico">
+    <link href="../static/css/site.css" type="text/css" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+</head>
+
+<body>  
+    <div class="container" id="container">
+        
+        
+    </div>
+    <section class="notifications" style="display: none;">
+        <p class="notification-message" id="errorBox">Message...</p>
+    </section>
+    <section class="notifications"  style="display: none;background-color:rgba(1, 131, 29, 0.541);">
+        <p class="notification-message" id="successBox">Message...</p>
+    </section> 
+    <footer class="page-footer font-small">
+        <div class="footer-copyright text-center py-3">© 2020
+            <a href="https://softuni.bg/trainings/2840/js-applications-june-2020/internal" class="text-dark">JS Applications</a>
+        </div>
+    </footer>
+    <!-- The core Firebase JS SDK is always required and must be listed first -->
+    <script src="https://www.gstatic.com/firebasejs/7.17.2/firebase-app.js"></script>
+
+    <!-- TODO: Add SDKs for Firebase products that you want to use
+        https://firebase.google.com/docs/web/setup#available-libraries -->
+
+    <script>
+    // Your web app's Firebase configuration
+    var firebaseConfig = {
+        apiKey: "AIzaSyD_mMbqA-rdttYH3mCAdQet45-woKzB84w",
+        authDomain: "movies-7bac6.firebaseapp.com",
+        databaseURL: "https://movies-7bac6.firebaseio.com",
+        projectId: "movies-7bac6",
+        storageBucket: "movies-7bac6.appspot.com",
+        messagingSenderId: "180187138592",
+        appId: "1:180187138592:web:3c9f75f6ac2b6d677bca45"
+    };
+    // Initialize Firebase
+    firebase.initializeApp(firebaseConfig);
+    </script>
+    <script src="./node_modules/jquery/dist/jquery.js"></script>
+    <script src="./node_modules/bootstrap/dist/js/bootstrap.js"></script>
+    <script src="./node_modules/sammy/lib/min/sammy-latest.min.js"></script>
+    <script src="./node_modules/handlebars/dist/handlebars.min.js"></script>
+    <script src="./main.js"></script>
+    </body>
+</html>

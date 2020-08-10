@@ -1,0 +1,13 @@
+{
+  
+  "type": "module",
+  "name": "ree",
+  "version": "1.0.0",
+  "description": "I want es6 to work ",
+  "main": "meterial/modules/main-es6.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

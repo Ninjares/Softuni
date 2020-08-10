@@ -134,7 +134,7 @@ app.run('/#/'); //depends which will be the first page to load
 
 //1. npm init
 //2. npm i local-web-server
-//3. npm install sammy,handlebarsm,jquery
+//3. npm install sammy,handlebars,jquery
 //4. npm run serve
 
 //$() means communicating with jquery
