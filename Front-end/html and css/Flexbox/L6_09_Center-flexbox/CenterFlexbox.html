@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Center Flexbox</title>
+</head>
+<body>
+    <div class="card">
+        <h3>Card Title</h3>
+
+        <p>Some kind of description here that explains this strange behaviour of the system</p>
+    </div>
+</body>
+</html>
+<style>
+    html{
+        height: 100%;
+        display: flex;
+    }
+    body{
+        background: rgb(238,238,238);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-grow: 1;
+    }
+    div{
+        background: rgb(255,255,255);
+        box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.4);
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .card{
+        max-width: 450px;
+    }
+</style>

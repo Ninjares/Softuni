@@ -1,0 +1,58 @@
+<title>Calendar</title>
+
+<div class="container">
+    <section class="week">
+        <span class="ww"><h2>Workweek</h2></span>
+        <article>
+            <span><p>1 Monday</p></span>
+            <span><p>2 Thuesday</p></span>
+            <span><p>3 Wednesday</p></span>
+            <span><p>4 Thursday</p></span>
+            <span><p>5 Friday</p></span>
+        </article>
+            <span class="we"><h2>Weekend</h2></span>
+        <article>
+            <span><p>6 Saturday</p></span>
+            <span><p>7 Sunday</p></span>
+        </article>
+    </section>
+    <section class="notes">
+        <span><h5>REMINDERS</h5></span>
+        <span><h5>SPECIAL DATES</h5></span>
+    </section>
+</div>
+<style>
+    html{
+        box-sizing: border-box;
+    }
+    .containter{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+    div>section{
+        flex-direction: column;
+        display: flex;
+    }
+    div{
+        max-width: 65vw;
+        display: flex;
+    }
+    span{
+        border: 1px solid black;
+        min-height: 4em;
+        flex-grow: 1;
+        text-align: center;
+    }
+    article{
+        display: flex;
+        flex-direction: row;
+    }
+    .week{
+        flex-grow: 3;
+    }
+    .notes{
+        flex-grow: 1;
+    }
+</style>

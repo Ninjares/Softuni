@@ -1,0 +1,17 @@
+body, ul, li{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+li{
+    padding: 0.5vw;
+    border: solid 2px black;
+    margin: 1vw;
+    box-shadow: 0px 0px 11px 2px rgba(0,0,0,0.36);
+}
+body{
+    background-color: rgb(238, 238, 238);
+}
+img{
+    object-fit: none;
+}
