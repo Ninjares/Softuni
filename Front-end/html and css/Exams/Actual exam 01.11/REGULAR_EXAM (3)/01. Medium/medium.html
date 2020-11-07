@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Medium</title>
+</head>
+<body>
+    <header>
+        <h1>No ads. No problems.</h1>
+        <p>Your privacy stays yours. We don’t sell your data or target you with ads. Ever.</p>
+    </header>
+    <main>
+        <div class="description">
+            <p class="intro">We do things differently.</p>
+            <p>Medium is not like any other platform on the internet. <span>Our sole purpose is to help you find compelling ideas, knowledge, and perspectives.</span> We don’t serve ads—we serve you, the curious reader who loves to learn new things. Medium is home to thousands of independent voices, and we combine humans and technology to find the best reading for you—and filter out the rest.</p>
+        </div>
+        <aside>
+            <a>GET STARTED</a>
+        </aside>
+    </main>
+    <border></border>
+</body>
+</html>
+<style>
+    html{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        height: 100%;
+        font-size: 15.5px;
+    }
+    body{
+        font-family: Helvetica;
+        max-width: 47em;
+        display: flex;
+        flex-direction: column;
+        padding-bottom: 2em;
+    }
+    h1{
+        font-family: Georgia;
+        font-size: 45px;
+        margin-bottom: 10px;
+    }
+    main{
+        display: flex;
+        flex-direction: row-reverse;
+        flex-basis: 1em;
+    }
+    main div, main aside{
+        flex-grow: 1;
+        flex-basis: 1px;
+    }
+    aside{
+        display: flex;
+        flex-direction: row;
+        align-items: flex-end;
+    }
+    a{
+        background: rgb(27, 158, 103);
+        color:white;
+        border-radius: 5px;
+        font-weight: bold;
+        padding-left: 2.5em;
+        padding-right: 2.5em;
+        padding-top: 0.5em;
+        padding-bottom: 0.5em;
+        cursor: pointer;
+    }
+    .intro{
+        font-weight: bold;
+    }
+    p:not(.intro){
+        color: gray;
+    }
+    .description p:not(.intro){
+        margin-bottom: unset;
+        line-height: 1.3;
+    }
+    span{
+        background-color: rgb(189, 255, 214);
+    }
+    border{
+        padding-top: 2em;
+        border-bottom: rgb(175, 175, 175) 1px solid;
+        width: 45%;
+        align-self: center;
+    }
+</style>

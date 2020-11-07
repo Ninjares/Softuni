@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+        <div class="description">
+        <h2 style="margin-top: 0px">What Is Included?</h2>
+        <ul class="fa-ul">
+            <li><p><i class ="fas fa-li fa-check"></i> Nulla nec finibus orci, ut volutpat nibh. Sed ullamcorper porttitor.</p></li>
+            <li><p><i class ="fas fa-li fa-check"></i> Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p></li>
+            <li><p><i class ="fas fa-li fa-check"></i> Luctus et rhoncus. Vel sapien semper sit.</p></li>
+            <li><p><i class ="fas fa-li fa-check"></i> Eget amet, sapien mi ac ullamcorper amet. </p></li>
+            <li><p><i class ="fas fa-li fa-check"></i> Vulputate posuere pulvinar quisque at non pellentesque.</p></li>
+            <li><p><i class ="fas fa-li fa-check"></i> Nunc tempor varius sit magna massa tincidunt id eu.</p></li>
+        </ul>
+        </div>
+        <div class="enrollment">
+            <p><span>$ 120</span>/ month</p>
+            <p>Start learning today at your own pace!</p>
+            <a>Enroll now</a>
+        </div>
+</body>
+</html>
+<style>
+    @import url('https://use.fontawesome.com/releases/v5.15.1/css/all.css');
+    @import url('https://fonts.googleapis.com/css2?family=Lato&family=Montserrat&display=swap');
+    html{
+        height: 100%;
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+        justify-content: center;
+        font-family: 'Lato', sans-serif;
+        color: rgb(60, 60, 60);
+    }
+    body{
+        background-color: rgb(238,238,238);
+        display: flex;
+        flex-direction: row;
+        padding-left: 17%;
+        padding-right: 17%;
+        flex-grow: 1;
+    }
+    span{
+        font-size: 4em;
+        color: rgb(40, 175, 228);
+        font-weight: bold;
+    }
+    i{
+        color:rgb(3, 145, 201);
+    }
+    div{
+        flex-basis: 1em;
+        margin:20px
+    }
+    .enrollment{
+        font-size: 1.2em;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-around;
+        text-align: center;
+        border: 3px rgb(15, 164, 209) solid;
+        border-radius: 8px;
+        flex-grow: 1;
+        padding: 2em;
+    }
+    .description{
+        background-color: rgb(199, 226, 235);
+        flex-grow: 1;
+        padding:2em;
+        box-shadow: 0px 0px 15px 0.1px rgba(0,0,0,0.5);
+        border-radius: 15px;
+        border: 0px solid;
+    }
+    span, h2{
+        font-family: 'Montserrat', sans-serif;
+    }
+    a{
+        text-transform: uppercase;
+        font-weight: bold;
+        background: rgb(0, 149, 207);
+        padding: 0.7em;
+        padding-left: 3em;
+        padding-right: 3em;
+        color:white;
+        border-radius: 0.5em;
+        box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.5);
+    }
+    a:hover{
+        cursor: pointer;
+    }
+</style>

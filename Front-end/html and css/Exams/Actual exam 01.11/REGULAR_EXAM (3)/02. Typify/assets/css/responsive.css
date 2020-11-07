@@ -1,0 +1,63 @@
+@media all and (max-width: 600px){
+    .banner{
+        padding-top: 3em;
+        padding-bottom: 3em;
+    }
+    .banner h2{
+        width: auto;
+        margin-left: 0.5em;
+        margin-right: 0.5em;
+        font-size: 30px;
+    }
+    .wrapper > .inner{
+        width: auto;
+    }
+    .wrapper > .inner.narrow{
+        width: auto;
+        padding-left: 0.5em;
+        padding-right: 0.5em;
+    }
+    .features{
+        flex-direction: column;
+    }
+    .feature{
+        width: auto;
+        margin-left: 0.5em;
+        margin-right: 0.5em;
+    }
+    .grid-form{
+        flex-wrap: nowrap;
+        flex-direction: column;
+    }
+    .grid-form .form-control.narrow{
+        width: auto;
+    }
+    .actions{
+        display: flex;
+        flex-direction: column;
+    }
+    ul.actions li{
+        display: flex;
+        flex-direction: column;
+        align-self: stretch;
+        margin:0 0.5em 0 0.5em;
+        align-items: stretch;
+    }
+    .actions li a{
+        display: flex;
+        flex-direction: column;
+    }
+    .actions li input{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+    }
+    .wrapper{
+        padding-top: 3em;
+        padding-bottom: 1em;
+    }
+    .footer{
+        padding: 2em 0 1em 0;
+    }
+}
