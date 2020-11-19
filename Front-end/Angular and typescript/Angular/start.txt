@@ -1,0 +1,6 @@
+1. npm install angular-cli
+2. add ..\NodeJs\node_modules\angular-cli\bin\ng to PATH
+3. ng new <app-name> to create new project
+4. Fix index.d.ts error by commenting the errored line thus removing it 
+5. "ng serve -open" to compile
+6. Use "ng generate component <component name>" to create angular components
