@@ -1,0 +1,5 @@
+deposit = float(input())
+periods = int(input())
+interest = float(input())
+sum = deposit + periods * (deposit * (interest / 100) / 12)
+print(sum)
